@@ -32,7 +32,7 @@ Jamnagar, GJ, India | July, 2017 & December, 2018
 <font size="2"><b>Industrial Summer Trainee at M/s <a href='http://www.tecnimont.in'>Tecnimont Private Limited</a></b><br>
 Mumbai, MH, India | July, 2018
 <ul>
-<li>Developed process flow diagrams (PFDs) and performed Heat \& Material Balance manually for a turbo-compression system followed by simulating the same on Aspen HYSYS to validate the manual results with the simulation output and to understand the deviations.</li>
+<li>Developed process flow diagrams (PFDs) and performed Heat & Material Balance manually for a turbo-compression system followed by simulating the same on Aspen HYSYS to validate the manual results with the simulation output and to understand the deviations.</li>
 </ul>
 </font>
 
