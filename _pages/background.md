@@ -32,7 +32,7 @@ Mumbai, MH, India | July, 2018
 </ul>
 </font>
 
-### Teaching
+### Teaching Experience
 
 |Time|Role|Course|Affiliation|
 |:-|:-|:-|:-|
