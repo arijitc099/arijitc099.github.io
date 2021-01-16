@@ -53,7 +53,7 @@ Mumbai, MH, India | July, 2018
 |Category|Skills|
 |:-|:-|
 |Simulation         |Aspen HYSYS, Aspen Plus, COMSOL Multiphysics|
-|Programming        |Python, MATLAB, C++, LaTeX|
+|Programming        |Python, MATLAB, C++|
 |Publishing        	|Microsoft Office, LaTeX|
 |Optimization      	|GAMS®|
  
