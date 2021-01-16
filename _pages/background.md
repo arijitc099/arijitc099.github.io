@@ -16,7 +16,7 @@ author_profile: true
 
 ### Industrial Experience
 
-<font size="2"><b>Vocational Trainee at M/s <a href='http://www.ril.com'>(Reliance Industries Limited)</a></b><br>
+<font size="2"><b>Vocational Trainee at M/s <a href='http://www.ril.com'>Reliance Industries Limited</a></b><br>
 Jamnagar, GJ, India | July, 2017 & December, 2018
 <ul>
 <li>Witnessed different methods of pre-commissioning activities such as flushing, steam blowing, drying, box-up, leak tests etc.</li>
@@ -25,7 +25,7 @@ Jamnagar, GJ, India | July, 2017 & December, 2018
 </ul>
 </font>
 
-<font size="2"><b>Industrial Summer Trainee at M/s <a href='http://www.tecnimont.in'>(Tecnimont Private Limited)</a></b><br>
+<font size="2"><b>Industrial Summer Trainee at M/s <a href='http://www.tecnimont.in'>Tecnimont Private Limited</a></b><br>
 Mumbai, MH, India | July, 2018
 <ul>
 <li>Developed process flow diagrams (PFDs) and performed Heat \& Material Balance manually for a turbo-compression system followed by simulating the same on Aspen HYSYS to validate the manual results with the simulation output and to understand the deviations.</li>
