@@ -5,8 +5,6 @@ permalink: /experience/
 author_profile: true
 ---
 
-### Publications and Presentations
-
 |_Journal Publications_|
 |:-|
 |**Arijit Chakraborty**, Abhishek Sivaram, Lakshminarayanan Samavedham, Venkat Venkatasubramanian. Mechanism Discovery and Model Identification using Genetic Feature Extraction and Statistical Testing. _Computers and Chemical Engineering._(2020), doi: [10.1016/j.compchemeng.2020.106900](https://doi.org/10.1016/j.compchemeng.2020.106900) [(PDF)](../files/paper3.pdf) |
