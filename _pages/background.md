@@ -14,6 +14,10 @@ author_profile: true
 |08/2020|Bachelor of Science, Chemical Engineering | Birla Institute of Technology and Science, Pilani (BITS Pilani)
 
 
+### Relevant Coursework
+
+Chemical Engineering Data Analysis, Artificial Intelligence in Chemical Engineering, Statistical Mechanics, Chemical Engineering Optimization
+
 ### Industrial Experience
 
 <font size="2"><b>Vocational Trainee at M/s <a href='http://www.ril.com'>Reliance Industries Limited</a></b><br>
