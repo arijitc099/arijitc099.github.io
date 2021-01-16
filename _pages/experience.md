@@ -27,8 +27,7 @@ author_profile: true
 |Ridhish Kumar, **Arijit Chakraborty**, Anupam Mukherjee, Prakash Dadhich, Anirban Roy.  3D Printing in BiomedicalApplications. _Chemical Engineering World_ 53, 40-44 (2018) |
 |**Arijit Chakraborty**, Ridhish Kumar, Anirban Roy. Water  Management  Using  Membranes:   Forward Osmosis and Pressure Retarded Osmosis as Technologies of Future. _Chemical Engineering World_ 52, 44-48 (2017) |
 
-### Honors and Awards
-
+|_Honors and Awards_|
 |:-|
 |Indian Institute of Chemical Engineers (IIChE) Award for the Year 2018 : The Chemical Weekly Prize for Best Research Paper Published in a High Impact Factor International Journal by an Undergraduate Chemical Engineering Student – First Prize. (2018) |
 |Council for Student Affairs of BITS Pilani, Goa Campus, Felicitation Fund (2018)|
