@@ -36,7 +36,7 @@ author_profile: true
 ### Projects
 
 <font size="2"><b>Mechanism Identification of Physio-chemical Systems using Evolutionary Algorithm</b><br>
-Advisor: <a href='https://www.cheme.columbia.edu/faculty/venkat-venkatasubramanian'>Prof. Venkat Venkatasubramanium</a> , Columbia University, U.S.A | Summer 2019 - Present  
+Advisor: <a href='https://www.cheme.columbia.edu/faculty/venkat-venkatasubramanian'>Prof. Venkat Venkatasubramanian</a> , Columbia University, U.S.A | Summer 2019 - Present  
 <ul>
 <li>Developed a genetic algorithm approach-based program using Python that performs symbolic regression to map input variables to output variables with high accuracy.</li>
 <li> Proposed a new strategy for mechanism identification of multi-parameter models across a widerange of parameter space.</li>
