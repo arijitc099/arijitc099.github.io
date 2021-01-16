@@ -18,6 +18,7 @@ author_profile: true
 
 |Time|Role|Course|Affiliation|
 |:-|:-|:-|:-|
+|Spring 2021|Teaching Assistant|Mathematical Methods in Chemical Engineering|Columbia University|
 |Spring 2020|Teaching Assistant|Chemical Engineering Laboratory - II|BITS Pilani|
 |Spring 2019|Course Instructor|Process Simulation & Modeling – ASPEN Plus & HYSYS|BITS Pilani|
 |Spring 2019|Teaching Assistant|Numerical Methods for Chemical Engineers|BITS Pilani|
