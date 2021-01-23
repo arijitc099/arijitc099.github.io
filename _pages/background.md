@@ -11,7 +11,7 @@ author_profile: true
 |Time|Degree|School|
 |:-|:-|:-|
 |09/2020 - Present | Ph.D. Candidate, Chemical Engineering | Columbia University in the City of New York
-|08/2020|Bachelor of Science, Chemical Engineering | Birla Institute of Technology and Science, Pilani (BITS Pilani)
+|08/2016 - 08/2020|Bachelor of Science, Chemical Engineering | Birla Institute of Technology and Science, Pilani (BITS Pilani)
 
 
 ### Relevant Coursework
