@@ -14,9 +14,7 @@ author_profile: true
 |_Conferences_|
 |:-|
 |Abhishek Sivaram, **Arijit Chakraborty**, Lakshminarayanan Samavedham and Venkat Venkatasubramanian. Mechanism Discovery and Model Identification Using Genetic Feature Extraction and Statistical Testing. _2020 AIChE Annual Meeting_. (2020), [2020 AIChE Annual Meeting](https://aiche.confex.com/aiche/2020/10/papers/viewonly.cgi?password=608092&username=605199) |
-|**Arijit Chakraborty** and Anirban Roy. Impact of Seasonal Salinity Variations in Estuarine Systems: Thermodynamic Feasibility Analysis of Pressure Retarded Osmosis (PRO) and Reverse Osmosis (RO) Combinations. _2018 AIChE Annual Meeting_. (2018), [2018 AIChE Annual Meeting](https://www.aiche.org/conferences/aiche-annual-meeting/2018/proceeding/session/poster-session-environmental-division) <!-- [(PDF)](../files/aiche2018.pdf) -->|
-<!-- |Research work was selected for oral presentation in [IIChE CHEMCON 2019](https://www.chemcon19.com) at Indian Institute of Technology-Delhi, India (2019)|
-|Research work was selected for oral presentation in [International Conference on Sustainable Technologies for Intelligent Water Management](https://www.iitr.ac.in/stiwm/) held at IIT-Roorkee, India (2018)| -->
+|**Arijit Chakraborty** and Anirban Roy. Impact of Seasonal Salinity Variations in Estuarine Systems: Thermodynamic Feasibility Analysis of Pressure Retarded Osmosis (PRO) and Reverse Osmosis (RO) Combinations. _2018 AIChE Annual Meeting_. (2018), [2018 AIChE Annual Meeting](https://www.aiche.org/conferences/aiche-annual-meeting/2018/proceeding/session/poster-session-environmental-division) 
 
 |_Book Chapter_|
 |:-|
