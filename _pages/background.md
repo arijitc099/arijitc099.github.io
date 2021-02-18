@@ -16,7 +16,7 @@ author_profile: true
 
 ### Relevant Coursework
 
-<font size="3">Chemical Engineering Data Analysis, Artificial Intelligence in Chemical Engineering, Statistical Mechanics, Chemical Engineering Optimization</font>
+<font size="3">Machine Learning, Chemical Engineering Data Analysis, Artificial Intelligence in Chemical Engineering, Statistical Mechanics, Chemical Engineering Optimization</font>
 
 <!-- Chemical Engineering Data Analysis, Artificial Intelligence in Chemical Engineering, Statistical Mechanics, Chemical Engineering Optimization -->
 
