@@ -16,4 +16,4 @@ I graduated from BITS Pilani-Goa Campus in 2020 with a Bachelor of Engineering (
 
 Additionally, I have worked on two industrial projects with Deccan Fine Chemicals in my junior year which involved modelling and simulation of full-scale process plants. This enabled me to develop a better understanding of the deliverables such as PFDs, BFDs and P&IDs. Having successfully completed the two projects, I am interested in the field of process systems engineering. Along those lines, I pursued my senior-year thesis at National University of Singapore (NUS) in the Department of Chemical and Biomolecular Engineering, on the modeling, simulation and optimization of cogeneration plants.
 
-Outside of academics, I am excited about rock-climbing, running, music, and reading books.
+Outside of academics, I am excited about rock-climbing, running, photography, traveling, music, cooking, and reading books – in no particular order.
