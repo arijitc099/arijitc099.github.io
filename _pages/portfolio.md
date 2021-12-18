@@ -25,14 +25,8 @@ Images that I shot, and later edited as monochrome.
 | :--: | 
 | *Frozen surface of Lake LaSalle, Buffalo, NY (2020)* |
 
-### Portrait Wallpapers
+### Wallpapers
 
-Images that I 
-
-
-### Landscape Wallpapers
-
-Images 
 
 
 ### Landscapes
@@ -42,6 +36,9 @@ Images
 ### Postcard
 
 
+| ![Rainbowbridge, Niagara Falls, NY](/images/portfolio_pics/rainbowbridge) |
+| :--: | 
+| *Rainbow Bridge, Niagara Falls, NY (2020)* |
 
 ### New York City
 
@@ -51,7 +48,7 @@ Images
 
 
 
-### 
+### m
 
 <!-- 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/9dNS05gY3F-MWBTtEfwW5Q/144906425633" data-did="db6b97bad2f0b16f0743a1723717a18de2bd783a"><a href="http://l16cn.tumblr.com/post/144906425633/is-this-ryan-reynolds-or-nick-jonas">http://l16cn.tumblr.com/post/144906425633/is-this-ryan-reynolds-or-nick-jonas</a></div>  <script async src="https://secure.assets.tumblr.com/post.js"></script>
