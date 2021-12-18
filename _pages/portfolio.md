@@ -47,6 +47,10 @@ Images that I shot, and later edited as monochrome.
 | :--: | 
 | *Niagara Falls, Niagara Falls, NY (2020)* |
 
+| ![letchworthfalls, Niagara Falls, NY](/images/pics/letchworthfalls.jpg) |
+| :--: | 
+| *Waterfalls at Letchworth State Park – renowned as the "Grand Canyon of the East" – Castille , NY (2020)* |
+
 ### Postcard
 
 | ![duquesneincline, Pittsburgh, PA](/images/pics/duquesneincline.jpg) |
@@ -60,6 +64,10 @@ Images that I shot, and later edited as monochrome.
 | ![RainbowBridge, Niagara Falls, NY](/images/pics/niagarapostcard.jpg) |
 | :--: | 
 | *Rainbow Bridge, Niagara Falls, NY (2020)* |
+
+| ![letchworthfallcolors, Castile, NY](/images/pics/letchworthfallcolors.jpg) |
+| :--: | 
+| *Colorful Fall Foliage at Letchworth State Park, Castile, NY (2020)* |
 
 | ![letchworthsp, Castile, NY](/images/pics/letchworthsp.jpg) |
 | :--: | 
@@ -85,6 +93,18 @@ Images that I shot, and later edited as monochrome.
 | :--: | 
 | *Colorful Sunset viewed from Brooklyn Bridge Park, New York, NY (2021)* |
 
+| ![nycskyline, New York, NY](/images/pics/nycskyline.JPG) |
+| :--: | 
+| *NYC Skyline from the Hudson River Cruise, New York, NY (2021)* |
+
+| ![statueoflib, New York, NY](/images/pics/statueoflib.jpg) |
+| :--: | 
+| *Statue of Liberty, New York, NY (2021)* |
+
+| ![nyse, New York, NY](/images/pics/nyse.JPG) |
+| :--: | 
+| *New York Stock Exchange, New York, NY (2020)* |
+
 | ![washingtonsquarearch, New York, NY](/images/pics/washingtonsquarearch.JPG) |
 | :--: | 
 | *Washington Square Arch, New York, NY (2020)* |
@@ -100,4 +120,8 @@ Images that I shot, and later edited as monochrome.
 | ![snowycolumbia, New York, NY](/images/pics/snowycolumbia.JPG) |
 | :--: | 
 | *Snowy Columbia Unviersity, New York, NY (2021)* |
+
+| ![frozenkayak, New York, NY](/images/pics/frozenkayak.JPG) |
+| :--: | 
+| *Frozen kayak at Lake LaSalle, Buffalo, NY (2020)* |
 
