@@ -31,12 +31,13 @@ Images that I shot, and later edited as monochrome.
 
 ### Landscapes
 
-
+| ![NiagaraFalls, Niagara Falls, NY](images/portfolio_pics/niagarafalls) |
+| :--: | 
+| *Niagara Falls at Niagara Falls, NY (2020)* |
 
 ### Postcard
 
-
-| ![Rainbowbridge, Niagara Falls, NY](images/portfolio_pics/rainbowbridge) |
+| ![RainbowBridge, Niagara Falls, NY](images/portfolio_pics/niagarapostcard) |
 | :--: | 
 | *Rainbow Bridge, Niagara Falls, NY (2020)* |
 
