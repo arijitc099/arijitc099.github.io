@@ -89,7 +89,7 @@ Images that I shot, and later edited as monochrome.
 | :--: | 
 | *World Trade Center, New York, NY (September 11, 2021)* |
 
-| ![brooklynbridgeparksunset, New York, NY](/images/pics/brooklynbridgeparksunset.JPG) |
+| ![brooklynbridgeparksunset, New York, NY](/images/pics/brooklynbridgeparksunset.jpg) |
 | :--: | 
 | *Colorful Sunset viewed from Brooklyn Bridge Park, New York, NY (2021)* |
 
