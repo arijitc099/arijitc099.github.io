@@ -21,7 +21,7 @@ Images that I shot, and later edited as monochrome.
 | :--: | 
 | *The same cold and windy afternoon at Buffalo Waterfront, Buffalo, NY (2020)* |
 
-| ![Frozen Lake LaSalle, Buffalo, NY](/images/pics/frozenlake.jpg) |
+| ![FrozenLakeLaSalle, Buffalo, NY](/images/pics/frozenlake.JPG) |
 | :--: | 
 | *Frozen surface of Lake LaSalle, Buffalo, NY (2020)* |
 
@@ -55,7 +55,7 @@ Images that I shot, and later edited as monochrome.
 
 ### Panorama
 
-| ![PresqueIsleStatePark, Niagara Falls, NY](/images/pics/presqueislepano.jpg) |
+| ![PresqueIsleStatePark, Niagara Falls, NY](/images/pics/presqueislepano.JPG) |
 | :--: | 
 | *Presque Isle State Park, Erie, PA (2021)* |
 
@@ -63,7 +63,7 @@ Images that I shot, and later edited as monochrome.
 
 ### New York City
 
-| ![WTC@NYC, New York, NY](/images/pics/WTC911.jpg) |
+| ![WTC@NYC, New York, NY](/images/pics/WTC911.JPG) |
 | :--: | 
 | *World Trade Center, New York, NY (September 11, 2021)* |
 
