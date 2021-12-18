@@ -37,17 +37,31 @@ Images that I shot, and later edited as monochrome.
 
 ### Postcard
 
+| ![KinzuaBridge, Niagara Falls, NY](/images/pics/kinzua.jpg) |
+| :--: | 
+| *Kinzua Bridge State Park, McKean, PA (2021)* |
+
 | ![RainbowBridge, Niagara Falls, NY](/images/pics/niagarapostcard.jpg) |
 | :--: | 
 | *Rainbow Bridge, Niagara Falls, NY (2020)* |
 
+### Panorama
+
+| ![PresqueIsleStatePark, Niagara Falls, NY](/images/pics/presqueislepano.jpg) |
+| :--: | 
+| *Presque Isle State Park, Erie, PA (2021)* |
+
+
+
 ### New York City
 
-
+| ![WTC@NYC, New York, NY](/images/pics/WTC911.jpg) |
+| :--: | 
+| *World Trade Center, New York, NY (September 11, 2021)* |
 
 ### Night Sky
 
-| ![CherrySpringNight, Cherry Springs State Park, PA](arijitc099.github.io/images/pics/cherryspringnight.jpg) |
+| ![CherrySpringNight, Cherry Springs State Park, PA](/images/pics/cherryspringnight.jpg) |
 | :--: | 
 | *Night sky shot at Cherry Springs State Park, PA (2021)* |
 
