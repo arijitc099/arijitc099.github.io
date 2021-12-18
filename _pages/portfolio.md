@@ -27,6 +27,18 @@ Images that I shot, and later edited as monochrome.
 
 ### Landscapes
 
+| ![tatooshrange, WA](/images/pics/tatooshrange.JPG) |
+| :--: | 
+| *The Tatoosh Range as seen from the Paradise Trail on Mount Rainier, at Mount Rainier National Park, WA (2021)* |
+
+| ![mtrainier, WA](/images/pics/mtrainier.JPG) |
+| :--: | 
+| *Mount Rainier as seen from the Paradise Trail, at Mount Rainier National Park, WA (2021)* |
+
+| ![diablolake, WA](/images/pics/diablolake.jpg) |
+| :--: | 
+| *Diablo Lake as seen from the Diablo Lake Viewpoint, at North Cascades National Park, WA (2021)* |
+
 | ![SnoqualmieFalls, , WA](/images/pics/snoqualmiefalls.jpg) |
 | :--: | 
 | *Snoqualmie Falls, Snoqualmie, WA (2021)* |
@@ -36,10 +48,6 @@ Images that I shot, and later edited as monochrome.
 | *Niagara Falls, Niagara Falls, NY (2020)* |
 
 ### Postcard
-
-| ![tatooshrange, Pittsburgh, PA](/images/pics/tatooshrange.jpg) |
-| :--: | 
-| *The Tatoosh Range as seen from the Paradise Trail on Mount Rainier, at Mount Rainier National Park, WA (2021)* |
 
 | ![duquesneincline, Pittsburgh, PA](/images/pics/duquesneincline.jpg) |
 | :--: | 
@@ -58,8 +66,6 @@ Images that I shot, and later edited as monochrome.
 | ![PresqueIsleStatePark, Niagara Falls, NY](/images/pics/presqueislepano.JPG) |
 | :--: | 
 | *Presque Isle State Park, Erie, PA (2021)* |
-
-
 
 ### New York City
 
