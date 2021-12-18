@@ -45,6 +45,12 @@ Images that I shot, and later edited as monochrome.
 
 
 
+### Night Sky
+
+| ![CherrySpringNight, Cherry Springs State Park, PA](images/portfolio_pics/cherryspringnight) |
+| :--: | 
+| *Night sky shot at Cherry Springs State Park, PA (2021)* |
+
 ### Winter
 
 
