@@ -27,7 +27,7 @@ Images that I shot, and later edited as monochrome.
 
 ### Wallpapers
 
-[NiagaraFalls, Niagara Falls, NY](/images/pics/computer-keyboard-showing-testing-260nw-515285995.jpg) 
+![Book logo](/images/computer-keyboard-showing-testing-260nw-515285995.jpg)
 
 ### Landscapes
 
