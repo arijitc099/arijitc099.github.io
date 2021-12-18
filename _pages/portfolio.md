@@ -7,7 +7,7 @@ author_profile: true
 <!-- 
 _Please allow the page to load select Tumblr contents. For a complete list, please visit my [portfolio](https://l16cn.tumblr.com)._ -->
 
-It must be noted that DSLR cameras are expensive. With that being said, hope you enjoy the images here.
+It must be noted that DSLR cameras are expensive. With that being said, hope you enjoy these images here, taken on a mobile device.
 
 ### Monochrome
 
