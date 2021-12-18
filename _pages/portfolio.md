@@ -13,15 +13,15 @@ It must be noted that DSLR cameras are expensive. With that being said, hope you
 
 Images that I shot, and later edited as monochrome.
 
-| ![Canalside1, Buffalo, NY](/images/portfolio_pics/canalside1) |
+| ![Canalside1, Buffalo, NY](images/portfolio_pics/canalside1) |
 | :--: | 
 | *A cold and windy afternoon at Buffalo Waterfront, Buffalo, NY (2020)* |
 
-| ![Canalside2, Buffalo, NY](/images/portfolio_pics/canalside2) |
+| ![Canalside2, Buffalo, NY](images/portfolio_pics/canalside2) |
 | :--: | 
 | *The same cold and windy afternoon at Buffalo Waterfront, Buffalo, NY (2020)* |
 
-| ![Frozen Lake LaSalle, Buffalo, NY](/images/portfolio_pics/frozenlake) |
+| ![Frozen Lake LaSalle, Buffalo, NY](images/portfolio_pics/frozenlake) |
 | :--: | 
 | *Frozen surface of Lake LaSalle, Buffalo, NY (2020)* |
 
@@ -36,7 +36,7 @@ Images that I shot, and later edited as monochrome.
 ### Postcard
 
 
-| ![Rainbowbridge, Niagara Falls, NY](/images/portfolio_pics/rainbowbridge) |
+| ![Rainbowbridge, Niagara Falls, NY](images/portfolio_pics/rainbowbridge) |
 | :--: | 
 | *Rainbow Bridge, Niagara Falls, NY (2020)* |
 
