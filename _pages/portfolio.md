@@ -37,6 +37,14 @@ Images that I shot, and later edited as monochrome.
 
 ### Postcard
 
+| ![tatooshrange, Pittsburgh, PA](/images/pics/tatooshrange.jpg) |
+| :--: | 
+| *The Tatoosh Range as seen from the Paradise Trail on Mount Rainier, at Mount Rainier National Park, WA (2021)* |
+
+| ![duquesneincline, Pittsburgh, PA](/images/pics/duquesneincline.jpg) |
+| :--: | 
+| *Duquesne Incline at Pittsburgh, PA (2021)* |
+
 | ![KinzuaBridge, Niagara Falls, NY](/images/pics/kinzua.jpg) |
 | :--: | 
 | *Kinzua Bridge State Park, McKean, PA (2021)* |
