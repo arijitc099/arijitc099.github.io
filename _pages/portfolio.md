@@ -9,7 +9,7 @@ _Please allow the page to load select Tumblr contents. For a complete list, plea
 
 ### Traditional Arts
 
-![Book logo](computer-keyboard-showing-testing-260nw-515285995.jpg)
+![Book logo](/images/computer-keyboard-showing-testing-260nw-515285995.jpg)
 
 <!-- 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/9dNS05gY3F-MWBTtEfwW5Q/144906425633" data-did="db6b97bad2f0b16f0743a1723717a18de2bd783a"><a href="http://l16cn.tumblr.com/post/144906425633/is-this-ryan-reynolds-or-nick-jonas">http://l16cn.tumblr.com/post/144906425633/is-this-ryan-reynolds-or-nick-jonas</a></div>  <script async src="https://secure.assets.tumblr.com/post.js"></script>
