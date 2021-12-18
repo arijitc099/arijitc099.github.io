@@ -16,11 +16,19 @@ author_profile: true
 
 ### Relevant Coursework
 
-<font size="3">Machine Learning, Chemical Engineering Data Analysis, Artificial Intelligence in Chemical Engineering, Statistical Mechanics, Chemical Engineering Optimization</font>
+<font size="3">Artificial Intelligence, Machine Learning, Chemical Engineering Data Analysis, Artificial Intelligence in Chemical Engineering, Statistical Mechanics, Chemical Engineering Optimization</font>
 
-<!-- Chemical Engineering Data Analysis, Artificial Intelligence in Chemical Engineering, Statistical Mechanics, Chemical Engineering Optimization -->
 
 ### Industrial Experience
+
+<font size="2"><b>Technology Research Intern at M/s <a href='https://www.aspentech.com/en/'>Aspen Technology Inc.</a></b><br>
+Bedford, MA, U.S.A. | May - August, 2020
+<ul>
+<li>Tested novel techniques with state-of-the-art hybrid modeling software, on industrial data.</li>
+<li>Implemented a stochastic evolutionary algorithm.</li>
+<li>Applied optimization techniques to develop an algorithm for nonlinear model-based experimental design.</li>
+</ul>
+</font>
 
 <font size="2"><b>Vocational Trainee at M/s <a href='http://www.ril.com'>Reliance Industries Limited</a></b><br>
 Jamnagar, GJ, India | July, 2017 & December, 2018
