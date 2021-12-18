@@ -13,15 +13,15 @@ It must be noted that DSLR cameras are expensive. With that being said, hope you
 
 Images that I shot, and later edited as monochrome.
 
-| ![Canalside1, Buffalo, NY](arijitc099.github.io/images/pics/canalside1.jpg) |
+| ![Canalside1, Buffalo, NY](/images/pics/canalside1.jpg) |
 | :--: | 
 | *A cold and windy afternoon at Buffalo Waterfront, Buffalo, NY (2020)* |
 
-| ![Canalside2, Buffalo, NY](/arijitc099.github.io/images/pics/canalside2.jpg) |
+| ![Canalside2, Buffalo, NY](/images/pics/canalside2.jpg) |
 | :--: | 
 | *The same cold and windy afternoon at Buffalo Waterfront, Buffalo, NY (2020)* |
 
-| ![Frozen Lake LaSalle, Buffalo, NY](arijitc099.github.io/images/pics/frozenlake.jpg) |
+| ![Frozen Lake LaSalle, Buffalo, NY](/images/pics/frozenlake.jpg) |
 | :--: | 
 | *Frozen surface of Lake LaSalle, Buffalo, NY (2020)* |
 
@@ -31,13 +31,13 @@ Images that I shot, and later edited as monochrome.
 
 ### Landscapes
 
-| ![NiagaraFalls, Niagara Falls, NY](arijitc099.github.io/images/pics/niagarafalls.jpg) |
+| ![NiagaraFalls, Niagara Falls, NY](/images/pics/niagarafalls.jpg) |
 | :--: | 
 | *Niagara Falls at Niagara Falls, NY (2020)* |
 
 ### Postcard
 
-| ![RainbowBridge, Niagara Falls, NY](arijitc099.github.io/images/pics/niagarapostcard.jpg) |
+| ![RainbowBridge, Niagara Falls, NY](/images/pics/niagarapostcard.jpg) |
 | :--: | 
 | *Rainbow Bridge, Niagara Falls, NY (2020)* |
 
