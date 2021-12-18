@@ -13,9 +13,13 @@ It must be noted that DSLR cameras are expensive. With that being said, hope you
 
 Images that I shot, and later edited as monochrome.
 
-| ![Canalside, Buffalo, NY](/images/portfolio_pics/IMG_0766) |
+| ![Canalside1, Buffalo, NY](/images/portfolio_pics/canalside1) |
 | :--: | 
 | *A cold and windy afternoon at Buffalo Waterfront, Buffalo, NY (2020)* |
+
+| ![Canalside2, Buffalo, NY](/images/portfolio_pics/canalside2) |
+| :--: | 
+| *The same cold and windy afternoon at Buffalo Waterfront, Buffalo, NY (2020)* |
 
 ### Portrait Wallpapers
 
