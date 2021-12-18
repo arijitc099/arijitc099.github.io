@@ -4,13 +4,13 @@ title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
 ---
-
-_Please allow the page to load select Tumblr contents. For a complete list, please visit my [portfolio](https://l16cn.tumblr.com)._
+<!-- 
+_Please allow the page to load select Tumblr contents. For a complete list, please visit my [portfolio](https://l16cn.tumblr.com)._ -->
 
 ### Traditional Arts
 
 ![Book logo](/arijitc099.github.io/images/computer-keyboard-showing-testing-260nw-515285995.jpg)
-
+<!-- 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/9dNS05gY3F-MWBTtEfwW5Q/144906425633" data-did="db6b97bad2f0b16f0743a1723717a18de2bd783a"><a href="http://l16cn.tumblr.com/post/144906425633/is-this-ryan-reynolds-or-nick-jonas">http://l16cn.tumblr.com/post/144906425633/is-this-ryan-reynolds-or-nick-jonas</a></div>  <script async src="https://secure.assets.tumblr.com/post.js"></script>
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/9dNS05gY3F-MWBTtEfwW5Q/141835836053" data-did="11af666de4cc8237826ffc846d8a52408f428ef4"><a href="http://l16cn.tumblr.com/post/141835836053/game-of-thrones-sketches">http://l16cn.tumblr.com/post/141835836053/game-of-thrones-sketches</a></div>  <script async src="https://secure.assets.tumblr.com/post.js"></script> 
@@ -37,4 +37,4 @@ _Please allow the page to load select Tumblr contents. For a complete list, plea
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/9dNS05gY3F-MWBTtEfwW5Q/58694527481" data-did="1fb05519fecbdcc6908995e2053bf00e17443a9e"><a href="http://l16cn.tumblr.com/post/58694527481">http://l16cn.tumblr.com/post/58694527481</a></div>  <script async src="https://secure.assets.tumblr.com/post.js"></script>
 
-<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/9dNS05gY3F-MWBTtEfwW5Q/58694621797" data-did="90c7031753b59cc2513bbfee99b1969fe6bd18f8"><a href="http://l16cn.tumblr.com/post/58694621797/piano-improvisation-memory-of-the-summer-of-2012">http://l16cn.tumblr.com/post/58694621797/piano-improvisation-memory-of-the-summer-of-2012</a></div>  <script async src="https://secure.assets.tumblr.com/post.js"></script>  
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/9dNS05gY3F-MWBTtEfwW5Q/58694621797" data-did="90c7031753b59cc2513bbfee99b1969fe6bd18f8"><a href="http://l16cn.tumblr.com/post/58694621797/piano-improvisation-memory-of-the-summer-of-2012">http://l16cn.tumblr.com/post/58694621797/piano-improvisation-memory-of-the-summer-of-2012</a></div>  <script async src="https://secure.assets.tumblr.com/post.js"></script>   -->
