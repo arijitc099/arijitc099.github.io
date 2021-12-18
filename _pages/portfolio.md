@@ -21,6 +21,10 @@ Images that I shot, and later edited as monochrome.
 | :--: | 
 | *The same cold and windy afternoon at Buffalo Waterfront, Buffalo, NY (2020)* |
 
+| ![Frozen Lake LaSalle, Buffalo, NY](/images/portfolio_pics/canalside2) |
+| :--: | 
+| *Frozen surface of Lake LaSalle, Buffalo, NY (2020)* |
+
 ### Portrait Wallpapers
 
 Images that I 
