@@ -25,15 +25,15 @@ Images that I shot, and later edited as monochrome.
 | :--: | 
 | *Frozen surface of Lake LaSalle, Buffalo, NY (2020)* |
 
-### Wallpapers
-
-![Book logo](/images/computer-keyboard-showing-testing-260nw-515285995.jpg)
-
 ### Landscapes
+
+| ![SnoqualmieFalls, , WA](/images/pics/snoqualmiefalls.jpg) |
+| :--: | 
+| *Snoqualmie Falls, Snoqualmie, WA (2021)* |
 
 | ![NiagaraFalls, Niagara Falls, NY](/images/pics/niagarafalls.jpg) |
 | :--: | 
-| *Niagara Falls at Niagara Falls, NY (2020)* |
+| *Niagara Falls, Niagara Falls, NY (2020)* |
 
 ### Postcard
 
