@@ -13,31 +13,31 @@ It must be noted that DSLR cameras are expensive. With that being said, hope you
 
 Images that I shot, and later edited as monochrome.
 
-| ![Canalside1, Buffalo, NY](/images/pics/canalside1.jpg){:height="50%" width="50%"} |
+| ![Canalside1, Buffalo, NY](/images/pics/canalside1.jpg) |
 | :--: | 
 | *A cold and windy afternoon at Buffalo Waterfront, Buffalo, NY (2020)* |
 
-| ![Canalside2, Buffalo, NY](/images/pics/canalside2.jpg){:height="50%" width="50%"} |
+| ![Canalside2, Buffalo, NY](/images/pics/canalside2.jpg) |
 | :--: | 
 | *The same cold and windy afternoon at Buffalo Waterfront, Buffalo, NY (2020)* |
 
-| ![Frozen Lake LaSalle, Buffalo, NY](/images/pics/frozenlake.jpg){:height="50%" width="50%"} |
+| ![Frozen Lake LaSalle, Buffalo, NY](/images/pics/frozenlake.jpg) |
 | :--: | 
 | *Frozen surface of Lake LaSalle, Buffalo, NY (2020)* |
 
 ### Wallpapers
 
-
+![Book logo](/images/computer-keyboard-showing-testing-260nw-515285995.jpg)
 
 ### Landscapes
 
-| ![NiagaraFalls, Niagara Falls, NY](/images/pics/niagarafalls.jpg){:height="50%" width="50%"} |
+| ![NiagaraFalls, Niagara Falls, NY](/images/pics/niagarafalls.jpg) |
 | :--: | 
 | *Niagara Falls at Niagara Falls, NY (2020)* |
 
 ### Postcard
 
-| ![RainbowBridge, Niagara Falls, NY](/images/pics/niagarapostcard.jpg){:height="50%" width="50%"} |
+| ![RainbowBridge, Niagara Falls, NY](/images/pics/niagarapostcard.jpg) |
 | :--: | 
 | *Rainbow Bridge, Niagara Falls, NY (2020)* |
 
@@ -47,7 +47,7 @@ Images that I shot, and later edited as monochrome.
 
 ### Night Sky
 
-| ![CherrySpringNight, Cherry Springs State Park, PA](arijitc099.github.io/images/pics/cherryspringnight.jpg){:height="50%" width="50%"} |
+| ![CherrySpringNight, Cherry Springs State Park, PA](arijitc099.github.io/images/pics/cherryspringnight.jpg) |
 | :--: | 
 | *Night sky shot at Cherry Springs State Park, PA (2021)* |
 
