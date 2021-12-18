@@ -21,7 +21,7 @@ Images that I shot, and later edited as monochrome.
 | :--: | 
 | *The same cold and windy afternoon at Buffalo Waterfront, Buffalo, NY (2020)* |
 
-| ![FrozenLakeLaSalle, Buffalo, NY](/images/pics/frozenlake.JPG) |
+| ![FrozenLakeLaSalle, Buffalo, NY](/images/pics/frozenlake1.JPG) |
 | :--: | 
 | *Frozen surface of Lake LaSalle, Buffalo, NY (2020)* |
 
@@ -71,11 +71,23 @@ Images that I shot, and later edited as monochrome.
 | :--: | 
 | *Presque Isle State Park, Erie, PA (2021)* |
 
+| ![FrozenLakeLaSalle2, Buffalo, NY](/images/pics/frozenlake2.JPG) |
+| :--: | 
+| *Frozen Lake LaSalle, Buffalo, NY (2020)* |
+
 ### New York City
 
 | ![WTC@NYC, New York, NY](/images/pics/WTC911.JPG) |
 | :--: | 
 | *World Trade Center, New York, NY (September 11, 2021)* |
+
+| ![brooklynbridgeparksunset, New York, NY](/images/pics/brooklynbridgeparksunset.JPG) |
+| :--: | 
+| *Colorful Sunset viewed from Brooklyn Bridge Park, New York, NY (2021)* |
+
+| ![washingtonsquarearch, New York, NY](/images/pics/washingtonsquarearch.JPG) |
+| :--: | 
+| *Washington Square Arch, New York, NY (2020)* |
 
 ### Night Sky
 
