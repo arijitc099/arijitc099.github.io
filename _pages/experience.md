@@ -7,6 +7,7 @@ author_profile: true
 
 |_Journal Publications_|
 |:-|
+|Sampatrao Manjare, **Arijit Chakraborty**. Modelling of fugitive emissions released due to handling of iron ore cargo at the port. _International Journal of Environmental Science and Technology._(2022), doi: [10.1007/s13762-022-03969-4](https://doi.org/10.1007/s13762-022-03969-4)
 |**Arijit Chakraborty**, Abhishek Sivaram, Venkat Venkatasubramanian. AI-DARWIN: A first principles-based model discovery engine using machine learning. _Computers and Chemical Engineering._(2021), doi: [10.1016/j.compchemeng.2021.107470](https://doi.org/10.1016/j.compchemeng.2021.107470) <!-- [(PDF)](../files/paper4.pdf) -->|
 |**Arijit Chakraborty**, Abhishek Sivaram, Lakshminarayanan Samavedham, Venkat Venkatasubramanian. Mechanism Discovery and Model Identification using Genetic Feature Extraction and Statistical Testing. _Computers and Chemical Engineering._(2020), doi: [10.1016/j.compchemeng.2020.106900](https://doi.org/10.1016/j.compchemeng.2020.106900) <!-- [(PDF)](../files/paper3.pdf) -->|
 |**Arijit Chakraborty** and Anirban Roy. Water-energy nexus for estuarine systems with seasonal salinity variations: A thermodynamic feasibility analysis of reverse osmosis (RO)-pressure retarded osmosis (PRO) combinations. _Water Science and Technology: Water Supply._(2020), doi: [10.2166/ws.2020.144](https://doi.org/10.2166/ws.2020.144) <!-- [(PDF)](../files/paper2.pdf) -->|
@@ -60,7 +61,7 @@ Advisor: <a href='http://universe.bits-pilani.ac.in/goa/manjare/profile'>Prof. S
 </font>
 
 <font size="2"><b>Process Simulation of Speciality Chemicals Manufacturing Plants – Industrial Project for M/s Deccan Fine Chemicals Private Limited</b><br>
-Advisor: Prof. Sampatrao Manjare, BITS Pilani – Goa Campus, India | Fall 2018
+Advisor: <a href='http://universe.bits-pilani.ac.in/goa/manjare/profile'>Prof. Sampatrao Manjare</a>, BITS Pilani – Goa Campus, India | Fall 2018
 <ul>
 <li>Simulated two existing process plants on Aspen Plus from PFDs to study the effect of increasingthroughout in one plant whilst decreasing it for the other..</li>
 </ul>
