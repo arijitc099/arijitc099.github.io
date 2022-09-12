@@ -7,6 +7,7 @@ author_profile: true
 
 |_Journal Publications_|
 |:-|
+|**Arijit Chakraborty**, Sven Serneels, Heiko Claussen, and Venkat Venkatasubramanian. Hybrid AI Models in Chemical Engineering–A Purpose-driven Perspective. _Computer Aided Chemical Engineering._(2022), doi: [10.1016/B978-0-323-95879-0.50252-6](https://doi.org/10.1016/B978-0-323-95879-0.50252-6)
 |Sampatrao Manjare and **Arijit Chakraborty**. Modelling of fugitive emissions released due to handling of iron ore cargo at the port. _International Journal of Environmental Science and Technology._(2022), doi: [10.1007/s13762-022-03969-4](https://doi.org/10.1007/s13762-022-03969-4)
 |**Arijit Chakraborty**, Abhishek Sivaram, and Venkat Venkatasubramanian. AI-DARWIN: A first principles-based model discovery engine using machine learning. _Computers and Chemical Engineering._(2021), doi: [10.1016/j.compchemeng.2021.107470](https://doi.org/10.1016/j.compchemeng.2021.107470) <!-- [(PDF)](../files/paper4.pdf) -->|
 |**Arijit Chakraborty**, Abhishek Sivaram, Lakshminarayanan Samavedham, and Venkat Venkatasubramanian. Mechanism Discovery and Model Identification using Genetic Feature Extraction and Statistical Testing. _Computers and Chemical Engineering._(2020), doi: [10.1016/j.compchemeng.2020.106900](https://doi.org/10.1016/j.compchemeng.2020.106900) <!-- [(PDF)](../files/paper3.pdf) -->|
