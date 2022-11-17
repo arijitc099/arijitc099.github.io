@@ -7,8 +7,9 @@ author_profile: true
 
 |_Journal Publications_|
 |:-|
-|**Arijit Chakraborty**, Sven Serneels, Heiko Claussen, and Venkat Venkatasubramanian. Hybrid AI Models in Chemical Engineering–A Purpose-driven Perspective. _Computer Aided Chemical Engineering._(2022), doi: [10.1016/B978-0-323-95879-0.50252-6](https://doi.org/10.1016/B978-0-323-95879-0.50252-6)
-|Sampatrao Manjare and **Arijit Chakraborty**. Modelling of fugitive emissions released due to handling of iron ore cargo at the port. _International Journal of Environmental Science and Technology._(2022), doi: [10.1007/s13762-022-03969-4](https://doi.org/10.1007/s13762-022-03969-4)
+|Zuming Liu, **Arijit Chakraborty**, Tianbiao He, and Iftekhar A. Karimi. Technoeconomic and environmental optimization of combined heat and power systems with renewable integration for chemical plants. _Applied Thermal Engineering._(2022), p.119474., doi: [10.1016/j.applthermaleng.2022.119474](https://doi.org/10.1016/j.applthermaleng.2022.119474)|
+|**Arijit Chakraborty**, Sven Serneels, Heiko Claussen, and Venkat Venkatasubramanian. Hybrid AI Models in Chemical Engineering–A Purpose-driven Perspective. _Computer Aided Chemical Engineering._(2022), doi: [10.1016/B978-0-323-95879-0.50252-6](https://doi.org/10.1016/B978-0-323-95879-0.50252-6)|
+|Sampatrao Manjare and **Arijit Chakraborty**. Modelling of fugitive emissions released due to handling of iron ore cargo at the port. _International Journal of Environmental Science and Technology._(2022), doi: [10.1007/s13762-022-03969-4](https://doi.org/10.1007/s13762-022-03969-4)|
 |**Arijit Chakraborty**, Abhishek Sivaram, and Venkat Venkatasubramanian. AI-DARWIN: A first principles-based model discovery engine using machine learning. _Computers and Chemical Engineering._(2021), doi: [10.1016/j.compchemeng.2021.107470](https://doi.org/10.1016/j.compchemeng.2021.107470) <!-- [(PDF)](../files/paper4.pdf) -->|
 |**Arijit Chakraborty**, Abhishek Sivaram, Lakshminarayanan Samavedham, and Venkat Venkatasubramanian. Mechanism Discovery and Model Identification using Genetic Feature Extraction and Statistical Testing. _Computers and Chemical Engineering._(2020), doi: [10.1016/j.compchemeng.2020.106900](https://doi.org/10.1016/j.compchemeng.2020.106900) <!-- [(PDF)](../files/paper3.pdf) -->|
 |**Arijit Chakraborty** and Anirban Roy. Water-energy nexus for estuarine systems with seasonal salinity variations: A thermodynamic feasibility analysis of reverse osmosis (RO)-pressure retarded osmosis (PRO) combinations. _Water Science and Technology: Water Supply._(2020), doi: [10.2166/ws.2020.144](https://doi.org/10.2166/ws.2020.144) <!-- [(PDF)](../files/paper2.pdf) -->|
@@ -16,6 +17,9 @@ author_profile: true
 
 |_Conferences_|
 |:-|
+|**Arijit Chakraborty**, Harshal Marathe, and Venkat Venkatasubramanian. A Data Reconciliation Methodology for Reduced Order Modeling of Process Systems. _2022 AIChE Annual Meeting_. (2022)<!--, [2021 AIChE Annual Meeting](link)-->|
+|**Arijit Chakraborty**, Krishnan Kumaran, and Venkat Venkatasubramanian. A Framework for the Statistical Value of Extreme Points for Function Approximation. _2022 AIChE Annual Meeting_. (2022)<!--, [2021 AIChE Annual Meeting](link)-->|
+|**Arijit Chakraborty** and Venkat Venkatasubramanian. Discovering First-Principles-Based Models Using Machine Learning for Physicochemical Systems. _2022 AIChE Annual Meeting_. (2022)<!--, [2021 AIChE Annual Meeting](link)-->|
 |**Arijit Chakraborty**, Abhishek Sivaram and Venkat Venkatasubramanian. Discovering Interpretable Models from Data Using Machine Learning: Application to Nonlinear Parametric Models. _2021 AIChE Annual Meeting_. (2021)<!--, [2021 AIChE Annual Meeting](link)-->|
 |Abhishek Sivaram, **Arijit Chakraborty**, Lakshminarayanan Samavedham and Venkat Venkatasubramanian. Mechanism Discovery and Model Identification Using Genetic Feature Extraction and Statistical Testing. _2020 AIChE Annual Meeting_. (2020), [2020 AIChE Annual Meeting](https://aiche.confex.com/aiche/2020/10/papers/viewonly.cgi?password=608092&username=605199)|
 |**Arijit Chakraborty** and Anirban Roy. Impact of Seasonal Salinity Variations in Estuarine Systems: Thermodynamic Feasibility Analysis of Pressure Retarded Osmosis (PRO) and Reverse Osmosis (RO) Combinations. _2018 AIChE Annual Meeting_. (2018), [2018 AIChE Annual Meeting](https://www.aiche.org/conferences/aiche-annual-meeting/2018/proceeding/session/poster-session-environmental-division) 
@@ -30,7 +34,8 @@ author_profile: true
 |**Arijit Chakraborty**, Ridhish Kumar, Anirban Roy. Water  Management  Using  Membranes:   Forward Osmosis and Pressure Retarded Osmosis as Technologies of Future. _Chemical Engineering World_ 52, 44-48 (2017) |
 
 |_Honors and Awards_|
-|:-|
+|:-| 
+|CAST Director's Student Presentation Award at the 2022 AIChE Annual Meeting (2022)|
 |Indian Institute of Chemical Engineers (IIChE) Award for the Year 2018 : The Chemical Weekly Prize for Best Research Paper Published in a High Impact Factor International Journal by an Undergraduate Chemical Engineering Student – First Prize. (2018) |
 |Council for Student Affairs of BITS Pilani, Goa Campus, Felicitation Fund (2018)|
 

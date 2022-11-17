@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Ph.D. student in the Complex Resilient Intelligent Systems (CRIS) group of Professor Venkat Venkatasubramanian, at Columbia University in the City of New York. 
+I am a third-year Ph.D. student in the Complex Resilient Intelligent Systems (CRIS) group of Professor Venkat Venkatasubramanian, at Columbia University in the City of New York. 
 
-I recently pursued an internship at Aspen Technology Inc., a leader in developing asset performance management tools for the engineering industry, in their Data Science team. I developed codes to solve nonlinear experimental design, and optimization problems.
+I have pursued an internship during the Summer of 2021 at Aspen Technology Inc., a leader in developing asset performance management tools for the engineering industry, in their data science team. I developed algorithms to solve nonlinear experimental design, and optimization problems.
 
 I graduated from BITS Pilani-Goa Campus in 2020 with a Bachelor of Engineering (Honors) in Chemical Engineering, and am interested in applying my knowledge and skills to real world problems. Classical chemical engineering, as performed by the large MNCs and engineering contractors has always fascinated me. During the pursuit of my undergraduate degree, I completed industrial trainings- twice in the world renowned Reliance Industries Limited Jamnagar Refinery, and the other at Maire Tecnimont. Exposure to the same has helped me understand the industrial needs of chemical engineering, thus providing a different perspective to my field of study.
 
