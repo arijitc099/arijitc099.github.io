@@ -23,7 +23,7 @@ author_profile: true
 ### Industrial Experience
 
 <font size="2"><b>Technology Research Intern at M/s <a href='https://www.aspentech.com/en/'>Aspen Technology Inc.</a></b><br>
-Bedford, MA, U.S.A. | May - August, 2020
+Bedford, MA, U.S.A. | May - August, 2021
 <ul>
 <li>Tested novel techniques with state-of-the-art hybrid modeling software, on industrial data.</li>
 <li>Implemented a stochastic evolutionary algorithm.</li>
