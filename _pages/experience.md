@@ -72,7 +72,7 @@ Advisor: <a href='https://www.cheme.columbia.edu/faculty/venkat-venkatasubramani
 <font size="2"><b>Optimization of Cogeneration Plants — Undergraduate Thesis</b><br>
 Advisor: <a href='https://www.eng.nus.edu.sg/chbe/staff/cheiak/'>Prof. Iftekhar Karimi</a>, National University of Singapore, Singapore | Summer and Fall 2019
 <ul>
-<li>Developed a MINLP optimization model of a cogeneration plant by creation of a superstructure,incorporating all possible configurations of the equipment and their flow-schemes.</li>
+<li>Developed a MINLP optimization model of a cogeneration plant by creation of a superstructure, incorporating all possible configurations of the equipment and their flow-schemes.</li>
 <li>Used GAMS® for solving the optimization problem and analysed the design to obtain the optimalset of equipment, design parameters and corresponding operating conditions.</li>
 <li>Published a <a href='https://doi.org/10.1016/j.applthermaleng.2022.119474'>journal article</a> in Applied Thermal Engineering journal.</li>
 </ul>
