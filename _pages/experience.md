@@ -41,7 +41,7 @@ author_profile: true
 
 ### Projects
 
-<font size="2"><b>Hybrid Modeling of a Pilot-scale Bubble Column Aeration </b><br>
+<font size="2"><b>Hybrid-AI Modeling of a Pilot-scale Bubble Column Aeration </b><br>
 Advisor: <a href='https://www.cheme.columbia.edu/faculty/venkat-venkatasubramanian'>Prof. Venkat Venkatasubramanian</a> , Columbia University, U.S.A | Fall 2022 - Present  
 <ul>
 <li> In collaboration with researchers from Process and Systems Engineering Center (PROSYS) at the Department of Chemical and Biochemical Engineering in Technical University of Denmark. </li>
@@ -65,7 +65,7 @@ Advisor: <a href='https://www.cheme.columbia.edu/faculty/venkat-venkatasubramani
 <ul>
 <li>Developed a genetic algorithm approach-based algorithm that discovers mathematical models that map input variables to output variables with high accuracy.</li>
 <li> Proposed a new strategy for mechanism identification of multi-parameter models across a widerange of parameter space.</li>
-<li>Published 2 <a href='https://doi.org/10.1016/j.compchemeng.2020.106900'>journal</a> <a href='https://doi.org/10.1016/j.compchemeng.2021.107470'>articles</a> in Computers and Chemical Engineering journal.</li>
+<li>Published 2 <a href='https://doi.org/10.1016/j.compchemeng.2020.106900'>journal</a> <a href='https://doi.org/10.1016/j.compchemeng.2021.107470'>articles</a> in Computers & Chemical Engineering journal.</li>
 </ul>
 </font>
 
@@ -74,6 +74,7 @@ Advisor: <a href='https://www.eng.nus.edu.sg/chbe/staff/cheiak/'>Prof. Iftekhar 
 <ul>
 <li>Developed a MINLP optimization model of a cogeneration plant by creation of a superstructure,incorporating all possible configurations of the equipment and their flow-schemes.</li>
 <li>Used GAMS® for solving the optimization problem and analysed the design to obtain the optimalset of equipment, design parameters and corresponding operating conditions.</li>
+<li>Published a <a href='https://doi.org/10.1016/j.applthermaleng.2022.119474'>journal article</a> in Applied Thermal Engineering journal.</li>
 </ul>
 </font>
 
@@ -88,11 +89,11 @@ Advisor: <a href='http://universe.bits-pilani.ac.in/goa/manjare/profile'>Prof. S
 <font size="2"><b>Process Simulation of Speciality Chemicals Manufacturing Plants – Industrial Project for M/s Deccan Fine Chemicals Private Limited</b><br>
 Advisor: <a href='http://universe.bits-pilani.ac.in/goa/manjare/profile'>Prof. Sampatrao Manjare</a>, BITS Pilani – Goa Campus, India | Fall 2018
 <ul>
-<li>Simulated two existing process plants on Aspen Plus from PFDs to study the effect of increasingthroughout in one plant whilst decreasing it for the other..</li>
+<li>Simulated two existing process plants on Aspen Plus from PFDs to study the effect of increasing throughout in one plant whilst decreasing it for the other..</li>
 </ul>
 </font>
 
-<font size="2"><b>Thermodynamic Analysis of Reverse Osmosis Process— Mathematical Modeling</b><br>
+<font size="2"><b>Thermodynamic Analysis of Reverse Osmosis Process — Mathematical Modeling</b><br>
 Advisor: <a href='https://www.bits-pilani.ac.in/goa/anirbanr/profile'>Prof. Anirban Roy</a>, BITS Pilani – Goa Campus, India | Spring 2018
 <ul>
 <li>Proposed a cost reduction model in potable water manufacture by hybrid-osmotic process by modeling using MATLAB®.</li>
@@ -100,7 +101,7 @@ Advisor: <a href='https://www.bits-pilani.ac.in/goa/anirbanr/profile'>Prof. Anir
 </ul>
 </font>
 
-<font size="2"><b>Thermodynamic Analysis of Pressure-Retarded Osmosis Process— Mathematical Modeling</b><br>
+<font size="2"><b>Thermodynamic Analysis of Pressure-Retarded Osmosis Process — Mathematical Modeling</b><br>
 Advisor: Prof. Anirban Roy, BITS Pilani – Goa Campus, India | Fall 2017
 <ul>
 <li>Performed thermodynamic and feasibility analysis of Pressure Retarded Osmosis (PRO) by modeling using MATLAB for real estuarine geographies.</li>
