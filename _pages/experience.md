@@ -46,7 +46,7 @@ Advisor: <a href='https://www.cheme.columbia.edu/faculty/venkat-venkatasubramani
 <ul>
 <li>Developed a genetic algorithm approach-based program using Python that performs symbolic regression to map input variables to output variables with high accuracy.</li>
 <li> Proposed a new strategy for mechanism identification of multi-parameter models across a widerange of parameter space.</li>
-<li>Published a <a href='https://doi.org/10.1016/j.compchemeng.2020.106900'>journal article</a> in Computers and Chemical Engineering</li>
+<li>Published 2 <a href='https://doi.org/10.1016/j.compchemeng.2020.106900'>journal</a> <a href='https://doi.org/10.1016/j.compchemeng.2021.107470'>articles </a> in Computers and Chemical Engineering journal.</li>
 </ul>
 </font>
 
