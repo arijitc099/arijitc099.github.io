@@ -41,12 +41,31 @@ author_profile: true
 
 ### Projects
 
+<font size="2"><b>Hybrid Modeling of a Pilot-scale Bubble Column Aeration </b><br>
+Advisor: <a href='https://www.cheme.columbia.edu/faculty/venkat-venkatasubramanian'>Prof. Venkat Venkatasubramanian</a> , Columbia University, U.S.A | Fall 2022 - Present  
+<ul>
+<li> In collaboration with researchers from Process and Systems Engineering Center (PROSYS) at the Department of Chemical and Biochemical Engineering in Technical University of Denmark. </li>
+<li> A novel interpretable and explainable model for the bubble-column aeration operation was proposed, and parameters were reconciled with existing models of the same.</li>
+<li> Three different data based modeling approaches were applied for modeling aeration in a pilot scale bubble column, highlighting the strengths and weaknesses of each method.</li>
+</ul>
+</font>
+
+<font size="2"><b>Automated hybrid-AI Algorithm for Complex Reaction Mechanism Reduction</b><br>
+Advisor: <a href='https://www.cheme.columbia.edu/faculty/venkat-venkatasubramanian'>Prof. Venkat Venkatasubramanian</a> , Columbia University, U.S.A | Summer 2022 - Present  
+<ul>
+<li> In collaboration with researchers from within the Department of Chemical Engineering at Columbia University.</li>
+<li> Developed a hybrid-AI approach for obtaining reduced mechanisms 100x smaller in size in comparison to complete mechanism.</li>
+<li> Proposed a new strategy for mechanism reduction using a priori knowledge, such as species, reaction types, and reaction rates.</li>
+<li> Optimized existing mechanism using a combination of search, and optimization techniques.</li>
+</ul>
+</font>
+
 <font size="2"><b>Mechanism Identification of Physio-chemical Systems using Evolutionary Algorithm</b><br>
 Advisor: <a href='https://www.cheme.columbia.edu/faculty/venkat-venkatasubramanian'>Prof. Venkat Venkatasubramanian</a> , Columbia University, U.S.A | Summer 2019 - Present  
 <ul>
 <li>Developed a genetic algorithm approach-based program using Python that performs symbolic regression to map input variables to output variables with high accuracy.</li>
 <li> Proposed a new strategy for mechanism identification of multi-parameter models across a widerange of parameter space.</li>
-<li>Published 2 <a href='https://doi.org/10.1016/j.compchemeng.2020.106900'>journal</a> <a href='https://doi.org/10.1016/j.compchemeng.2021.107470'>articles </a> in Computers and Chemical Engineering journal.</li>
+<li>Published 2 <a href='https://doi.org/10.1016/j.compchemeng.2020.106900'>journal</a> <a href='https://doi.org/10.1016/j.compchemeng.2021.107470'>articles</a> in Computers and Chemical Engineering journal.</li>
 </ul>
 </font>
 
