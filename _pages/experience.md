@@ -46,7 +46,7 @@ Advisor: <a href='https://www.cheme.columbia.edu/faculty/venkat-venkatasubramani
 <ul>
 <li> In collaboration with researchers from Process and Systems Engineering Center (PROSYS) at the Department of Chemical and Biochemical Engineering in Technical University of Denmark. </li>
 <li> A novel interpretable and explainable model for the bubble-column aeration operation was proposed, and parameters were reconciled with existing models of the same.</li>
-<li> Three different data based modeling approaches were applied for modeling aeration in a pilot scale bubble column, highlighting the strengths and weaknesses of each method.</li>
+<li> Different data based modeling approaches were applied for modeling – highlighting the strengths and weaknesses of each method.</li>
 </ul>
 </font>
 
