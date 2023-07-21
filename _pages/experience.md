@@ -41,6 +41,15 @@ author_profile: true
 
 ### Projects
 
+<font size="2"><b>Automated Mechanism-based Explanation Generation of Machine Learning Model</b><br>
+Advisor: <a href='https://www.cheme.columbia.edu/faculty/venkat-venkatasubramanian'>Prof. Venkat Venkatasubramanian</a> , Columbia University, U.S.A | Fall 2022 - Present  
+<ul>
+<li> Developed a novel framework for the extraction of domain-specific information from textual sources.</li>
+<li> Extracted knowledge is used to generate mechanistic explanations for the ML-assisted models.</li>
+<li> Will give an oral presentation at the 2023 AIChE Annual Meeting in November.</li>
+</ul>
+</font>
+
 <font size="2"><b>Hybrid-AI Modeling of a Pilot-scale Bubble Column Aeration </b><br>
 Advisor: <a href='https://www.cheme.columbia.edu/faculty/venkat-venkatasubramanian'>Prof. Venkat Venkatasubramanian</a> , Columbia University, U.S.A | Fall 2022 - Present  
 <ul>
@@ -60,51 +69,60 @@ Advisor: <a href='https://www.cheme.columbia.edu/faculty/venkat-venkatasubramani
 </ul>
 </font>
 
+<font size="2"><b>A Framework for the Statistical Value of Extreme Points for Function Approximation</b><br>
+Advisor: <a href='https://www.cheme.columbia.edu/faculty/venkat-venkatasubramanian'>Prof. Venkat Venkatasubramanian</a> , Columbia University, U.S.A | Summer 2022 - Present  
+<ul>
+<li> Demonstrated using model-based experimental design, the case in favor of extreme points, along with their statistical merits.</li>
+<li> Developed an autonomous experimentation algorithm for improving function approximation in higher dimensions.</li>
+</ul>
+</font>
+
+
 <font size="2"><b>Mechanism Identification of Physio-chemical Systems using Evolutionary Algorithm</b><br>
 Advisor: <a href='https://www.cheme.columbia.edu/faculty/venkat-venkatasubramanian'>Prof. Venkat Venkatasubramanian</a> , Columbia University, U.S.A | Summer 2019 - Present  
 <ul>
-<li>Developed a genetic algorithm approach-based algorithm that discovers mathematical models that map input variables to output variables with high accuracy.</li>
+<li> Developed a genetic algorithm approach-based algorithm that discovers mathematical models that map input variables to output variables with high accuracy.</li>
 <li> Proposed a new strategy for mechanism identification of multi-parameter models across a widerange of parameter space.</li>
-<li>Published 2 <a href='https://doi.org/10.1016/j.compchemeng.2020.106900'>journal</a> <a href='https://doi.org/10.1016/j.compchemeng.2021.107470'>articles</a> in Computers & Chemical Engineering journal.</li>
+<li> Published 2 <a href='https://doi.org/10.1016/j.compchemeng.2020.106900'>journal</a> <a href='https://doi.org/10.1016/j.compchemeng.2021.107470'>articles</a> in Computers & Chemical Engineering journal.</li>
 </ul>
 </font>
 
 <font size="2"><b>Optimization of Cogeneration Plants — Undergraduate Thesis</b><br>
 Advisor: <a href='https://www.eng.nus.edu.sg/chbe/staff/cheiak/'>Prof. Iftekhar Karimi</a>, National University of Singapore, Singapore | Summer and Fall 2019
 <ul>
-<li>Developed a MINLP optimization model of a cogeneration plant by creation of a superstructure, incorporating all possible configurations of the equipment and their flow-schemes.</li>
-<li>Used GAMS® for solving the optimization problem and analysed the design to obtain the optimalset of equipment, design parameters and corresponding operating conditions.</li>
-<li>Published a <a href='https://doi.org/10.1016/j.applthermaleng.2022.119474'>journal article</a> in Applied Thermal Engineering journal.</li>
+<li> Developed a MINLP optimization model of a cogeneration plant by creation of a superstructure, incorporating all possible configurations of the equipment and their flow-schemes.</li>
+<li> Used GAMS® for solving the optimization problem and analysed the design to obtain the optimalset of equipment, design parameters and corresponding operating conditions.</li>
+<li> Published a <a href='https://doi.org/10.1016/j.applthermaleng.2022.119474'>journal article</a> in Applied Thermal Engineering journal.</li>
 </ul>
 </font>
 
 <font size="2"><b>Pilot Plant Scale-up using Process Simulation – Industrial Project for M/s <a href='http://www.deccanchemicals.com/'>(Deccan Fine Chemicals Private Limited)</a></b><br>
 Advisor: <a href='http://universe.bits-pilani.ac.in/goa/manjare/profile'>Prof. Sampatrao Manjare</a>, BITS Pilani – Goa Campus, India | Spring 2019
 <ul>
-<li>Simulated a pesticide process plant using Aspen Plus with an objective to scale-up from pilot plant data using preliminary process flow diagrams (PFDs).</li>
-<li>Performed extensive literature review to obtain / extrapolate property data for proprietary compounds.</li>
+<li> Simulated a pesticide process plant using Aspen Plus with an objective to scale-up from pilot plant data using preliminary process flow diagrams (PFDs).</li>
+<li> Performed extensive literature review to obtain / extrapolate property data for proprietary compounds.</li>
 </ul>
 </font>
 
 <font size="2"><b>Process Simulation of Speciality Chemicals Manufacturing Plants – Industrial Project for M/s Deccan Fine Chemicals Private Limited</b><br>
 Advisor: <a href='http://universe.bits-pilani.ac.in/goa/manjare/profile'>Prof. Sampatrao Manjare</a>, BITS Pilani – Goa Campus, India | Fall 2018
 <ul>
-<li>Simulated two existing process plants on Aspen Plus from PFDs to study the effect of increasing throughout in one plant whilst decreasing it for the other..</li>
+<li> Simulated two existing process plants on Aspen Plus from PFDs to study the effect of increasing throughout in one plant whilst decreasing it for the other..</li>
 </ul>
 </font>
 
 <font size="2"><b>Thermodynamic Analysis of Reverse Osmosis Process — Mathematical Modeling</b><br>
 Advisor: <a href='https://www.bits-pilani.ac.in/goa/anirbanr/profile'>Prof. Anirban Roy</a>, BITS Pilani – Goa Campus, India | Spring 2018
 <ul>
-<li>Proposed a cost reduction model in potable water manufacture by hybrid-osmotic process by modeling using MATLAB®.</li>
-<li>Published a <a href='https://doi.org/10.2166/ws.2020.144'>journal article</a> in Water Science and Technology: Water Supply</li>
+<li> Proposed a cost reduction model in potable water manufacture by hybrid-osmotic process by modeling using MATLAB®.</li>
+<li> Published a <a href='https://doi.org/10.2166/ws.2020.144'>journal article</a> in Water Science and Technology: Water Supply</li>
 </ul>
 </font>
 
 <font size="2"><b>Thermodynamic Analysis of Pressure-Retarded Osmosis Process — Mathematical Modeling</b><br>
 Advisor: Prof. Anirban Roy, BITS Pilani – Goa Campus, India | Fall 2017
 <ul>
-<li>Performed thermodynamic and feasibility analysis of Pressure Retarded Osmosis (PRO) by modeling using MATLAB for real estuarine geographies.</li>
-<li>Published a <a href='https://doi.org/10.1089/ees.2017.0477'>journal article</a> in Environmental Engineering Science.</li>
+<li> Performed thermodynamic and feasibility analysis of Pressure Retarded Osmosis (PRO) by modeling using MATLAB for real estuarine geographies.</li>
+<li> Published a <a href='https://doi.org/10.1089/ees.2017.0477'>journal article</a> in Environmental Engineering Science.</li>
 </ul>
 </font>
