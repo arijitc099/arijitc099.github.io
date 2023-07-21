@@ -24,6 +24,12 @@ author_profile: true
 |Abhishek Sivaram, **Arijit Chakraborty**, Lakshminarayanan Samavedham and Venkat Venkatasubramanian. Mechanism Discovery and Model Identification Using Genetic Feature Extraction and Statistical Testing. _2020 AIChE Annual Meeting_. (2020), [2020 AIChE Annual Meeting](https://aiche.confex.com/aiche/2020/10/papers/viewonly.cgi?password=608092&username=605199)|
 |**Arijit Chakraborty** and Anirban Roy. Impact of Seasonal Salinity Variations in Estuarine Systems: Thermodynamic Feasibility Analysis of Pressure Retarded Osmosis (PRO) and Reverse Osmosis (RO) Combinations. _2018 AIChE Annual Meeting_. (2018), [2018 AIChE Annual Meeting](https://www.aiche.org/conferences/aiche-annual-meeting/2018/proceeding/session/poster-session-environmental-division) 
 
+|_Honors and Awards_|
+|:-| 
+|CAST Director's Student Presentation Award at the 2022 AIChE Annual Meeting (2022)|
+|Indian Institute of Chemical Engineers (IIChE) Award for the Year 2018 : The Chemical Weekly Prize for Best Research Paper Published in a High Impact Factor International Journal by an Undergraduate Chemical Engineering Student – First Prize. (2018) |
+|Council for Student Affairs of BITS Pilani, Goa Campus, Felicitation Fund (2018)|
+
 |_Book Chapter_|
 |:-|
 |Anupam Mukherjee, Shubham Lanjewar, Ridhish Kumar, **Arijit Chakraborty**, Amira Abdelrasoul, and Anirban Roy.  Role of Thermodynamics and Membrane Separations in Water-Energy Nexus. _Modeling in Membranes andMembrane-Based Processes_, p.145. (2020) [url](https://books.google.com/books?hl=en&lr=&id=mqHYDwAAQBAJ&oi=fnd&pg=PA145&ots=GGGsibnYTJ&sig=tYomin6WGgUgomh6ZkJ_3u6bo_c#v=onepage&q&f=false) |
@@ -32,12 +38,6 @@ author_profile: true
 |:-|
 |Ridhish Kumar, **Arijit Chakraborty**, Anupam Mukherjee, Prakash Dadhich, Anirban Roy.  3D Printing in BiomedicalApplications. _Chemical Engineering World_ 53, 40-44 (2018) |
 |**Arijit Chakraborty**, Ridhish Kumar, Anirban Roy. Water  Management  Using  Membranes:   Forward Osmosis and Pressure Retarded Osmosis as Technologies of Future. _Chemical Engineering World_ 52, 44-48 (2017) |
-
-|_Honors and Awards_|
-|:-| 
-|CAST Director's Student Presentation Award at the 2022 AIChE Annual Meeting (2022)|
-|Indian Institute of Chemical Engineers (IIChE) Award for the Year 2018 : The Chemical Weekly Prize for Best Research Paper Published in a High Impact Factor International Journal by an Undergraduate Chemical Engineering Student – First Prize. (2018) |
-|Council for Student Affairs of BITS Pilani, Goa Campus, Felicitation Fund (2018)|
 
 ### Projects
 
