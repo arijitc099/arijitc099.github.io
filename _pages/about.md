@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. student in the Complex Resilient Intelligent Systems (CRIS) group of Professor Venkat Venkatasubramanian, at Columbia University in the City of New York. 
+I am a fourth-year Ph.D. student in the Complex Resilient Intelligent Systems (CRIS) group of Professor Venkat Venkatasubramanian, at Columbia University in the City of New York. 
 
 I have pursued an internship during the Summer of 2021 at Aspen Technology Inc., a leader in developing asset performance management tools for the engineering industry, in their data science team. I developed algorithms to solve nonlinear experimental design, and optimization problems.
 
