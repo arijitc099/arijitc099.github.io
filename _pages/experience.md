@@ -33,7 +33,7 @@ author_profile: true
 
 |_Book Chapter_|
 |:-|
-|Anupam Mukherjee, Shubham Lanjewar, Ridhish Kumar, **Arijit Chakraborty**, Amira Abdelrasoul, and Anirban Roy.  Role of Thermodynamics and Membrane Separations in Water-Energy Nexus. _Modeling in Membranes and Membrane-Based Processes_, p.145. (2020) [url](https://books.google.com/books?hl=en&lr=&id=mqHYDwAAQBAJ&oi=fnd&pg=PA145&ots=GGGsibnYTJ&sig=tYomin6WGgUgomh6ZkJ_3u6bo_c#v=onepage&q&f=false)|
+|Anupam Mukherjee, Shubham Lanjewar, Ridhish Kumar, **Arijit Chakraborty**, Amira Abdelrasoul, and Anirban Roy. [Role of Thermodynamics and Membrane Separations in Water-Energy Nexus](https://books.google.com/books?hl=en&lr=&id=mqHYDwAAQBAJ&oi=fnd&pg=PA145&ots=GGGsibnYTJ&sig=tYomin6WGgUgomh6ZkJ_3u6bo_c#v=onepage&q&f=false). _Modeling in Membranes and Membrane-Based Processes_, p.145. (2020)|
 
 |_Magazine Articles_|
 |:-|
