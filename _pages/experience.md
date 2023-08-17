@@ -18,22 +18,22 @@ author_profile: true
 
 |_Conferences_|
 |:-|
-|**Arijit Chakraborty**, Harshal Marathe, and Venkat Venkatasubramanian. A Data Reconciliation Methodology for Reduced Order Modeling of Process Systems. _2022 AIChE Annual Meeting_. (2022)<!--, [2021 AIChE Annual Meeting](link)-->|
-|**Arijit Chakraborty**, Krishnan Kumaran, and Venkat Venkatasubramanian. A Framework for the Statistical Value of Extreme Points for Function Approximation. _2022 AIChE Annual Meeting_. (2022)<!--, [2021 AIChE Annual Meeting](link)-->|
-|**Arijit Chakraborty** and Venkat Venkatasubramanian. Discovering First-Principles-Based Models Using Machine Learning for Physicochemical Systems. _2022 AIChE Annual Meeting_. (2022)<!--, [2021 AIChE Annual Meeting](link)-->|
-|**Arijit Chakraborty**, Abhishek Sivaram and Venkat Venkatasubramanian. Discovering Interpretable Models from Data Using Machine Learning: Application to Nonlinear Parametric Models. _2021 AIChE Annual Meeting_. (2021)<!--, [2021 AIChE Annual Meeting](link)-->|
-|Abhishek Sivaram, **Arijit Chakraborty**, Lakshminarayanan Samavedham and Venkat Venkatasubramanian. Mechanism Discovery and Model Identification Using Genetic Feature Extraction and Statistical Testing. _2020 AIChE Annual Meeting_. (2020), [2020 AIChE Annual Meeting](https://aiche.confex.com/aiche/2020/10/papers/viewonly.cgi?password=608092&username=605199)|
-|**Arijit Chakraborty** and Anirban Roy. Impact of Seasonal Salinity Variations in Estuarine Systems: Thermodynamic Feasibility Analysis of Pressure Retarded Osmosis (PRO) and Reverse Osmosis (RO) Combinations. _2018 AIChE Annual Meeting_. (2018), [2018 AIChE Annual Meeting](https://www.aiche.org/conferences/aiche-annual-meeting/2018/proceeding/session/poster-session-environmental-division) 
+|**Arijit Chakraborty**, Harshal Marathe, and Venkat Venkatasubramanian. A Data Reconciliation Methodology for Reduced Order Modeling of Process Systems. _2022 AIChE Annual Meeting_. (2022), [2022 AIChE Annual Meeting](https://www.aiche.org/academy/conferences/aiche-annual-meeting/2022/proceeding/paper/543b-data-reconciliation-methodology-reduced-order-modeling-process-systems)|
+|**Arijit Chakraborty**, Krishnan Kumaran, and Venkat Venkatasubramanian. A Framework for the Statistical Value of Extreme Points for Function Approximation. _2022 AIChE Annual Meeting_. (2022), [2022 AIChE Annual Meeting](https://www.aiche.org/academy/conferences/aiche-annual-meeting/2022/proceeding/paper/416e-framework-statistical-value-extreme-points-function-approximation|
+|**Arijit Chakraborty** and Venkat Venkatasubramanian. Discovering First-Principles-Based Models Using Machine Learning for Physicochemical Systems. _2022 AIChE Annual Meeting_. (2022), [2022 AIChE Annual Meeting](https://www.aiche.org/academy/conferences/aiche-annual-meeting/2022/proceeding/paper/105c-discovering-first-principles-based-models-using-machine-learning-physicochemical-systems)|
+|**Arijit Chakraborty**, Abhishek Sivaram and Venkat Venkatasubramanian. Discovering Interpretable Models from Data Using Machine Learning: Application to Nonlinear Parametric Models. _2021 AIChE Annual Meeting_. (2021), [2021 AIChE Annual Meeting](https://www.aiche.org/academy/conferences/aiche-annual-meeting/2021/proceeding/paper/475g-discovering-interpretable-models-data-using-machine-learning-application-nonlinear-parametric)|
+|Abhishek Sivaram, **Arijit Chakraborty**, Lakshminarayanan Samavedham and Venkat Venkatasubramanian. Mechanism Discovery and Model Identification Using Genetic Feature Extraction and Statistical Testing. _2020 AIChE Annual Meeting_. (2020), [2020 AIChE Annual Meeting](https://www.aiche.org/academy/conferences/aiche-annual-meeting/2020/proceeding/paper/339h-mechanism-discovery-and-model-identification-using-genetic-feature-extraction-and-statistical)|
+|**Arijit Chakraborty** and Anirban Roy. Impact of Seasonal Salinity Variations in Estuarine Systems: Thermodynamic Feasibility Analysis of Pressure Retarded Osmosis (PRO) and Reverse Osmosis (RO) Combinations. _2018 AIChE Annual Meeting_. (2018), [2018 AIChE Annual Meeting](https://www.aiche.org/conferences/aiche-annual-meeting/2018/proceeding/paper/545ar-impact-seasonal-salinity-variations-estuarine-systems-thermodynamic-feasibility-analysis) 
 
 |_Honors and Awards_|
 |:-| 
-|CAST Director's Student Presentation Award at the 2022 AIChE Annual Meeting (2022)|
+|CAST Director's Student Presentation Award at the 2022 AIChE Annual Meeting (2022) [url](https://www.castdiv.org/StudentPresentationAward.htm)|
 |Indian Institute of Chemical Engineers (IIChE) Award for the Year 2018 : The Chemical Weekly Prize for Best Research Paper Published in a High Impact Factor International Journal by an Undergraduate Chemical Engineering Student – First Prize. (2018) |
 |Council for Student Affairs of BITS Pilani, Goa Campus, Felicitation Fund (2018)|
 
 |_Book Chapter_|
 |:-|
-|Anupam Mukherjee, Shubham Lanjewar, Ridhish Kumar, **Arijit Chakraborty**, Amira Abdelrasoul, and Anirban Roy.  Role of Thermodynamics and Membrane Separations in Water-Energy Nexus. _Modeling in Membranes andMembrane-Based Processes_, p.145. (2020) [url](https://books.google.com/books?hl=en&lr=&id=mqHYDwAAQBAJ&oi=fnd&pg=PA145&ots=GGGsibnYTJ&sig=tYomin6WGgUgomh6ZkJ_3u6bo_c#v=onepage&q&f=false) |
+|Anupam Mukherjee, Shubham Lanjewar, Ridhish Kumar, **Arijit Chakraborty**, Amira Abdelrasoul, and Anirban Roy.  Role of Thermodynamics and Membrane Separations in Water-Energy Nexus. _Modeling in Membranes and Membrane-Based Processes_, p.145. (2020) [url](https://books.google.com/books?hl=en&lr=&id=mqHYDwAAQBAJ&oi=fnd&pg=PA145&ots=GGGsibnYTJ&sig=tYomin6WGgUgomh6ZkJ_3u6bo_c#v=onepage&q&f=false)|
 
 |_Magazine Articles_|
 |:-|
