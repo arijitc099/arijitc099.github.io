@@ -27,7 +27,7 @@ author_profile: true
 
 |_Honors and Awards_|
 |:-| 
-|CAST Director's Student Presentation Award at the 2022 AIChE Annual Meeting (2022) [url](https://www.castdiv.org/StudentPresentationAward.htm)|
+|CAST Director's Student Presentation Award at the 2022 AIChE Annual Meeting (2022), for the presentation titled: _Discovering First-Principles-Based Models Using Machine Learning for Physicochemical Systems_ [url](https://www.castdiv.org/StudentPresentationAward.htm)|
 |Indian Institute of Chemical Engineers (IIChE) Award for the Year 2018 : The Chemical Weekly Prize for Best Research Paper Published in a High Impact Factor International Journal by an Undergraduate Chemical Engineering Student – First Prize. (2018) |
 |Council for Student Affairs of BITS Pilani, Goa Campus, Felicitation Fund (2018)|
 
