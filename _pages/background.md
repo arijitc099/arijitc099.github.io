@@ -22,6 +22,13 @@ author_profile: true
 
 ### Industrial Experience
 
+<font size="2"><b>ADISE Intern at M/s <a href='https://www.dow.com/en-us'>The Dow Chemical Company</a></b><br>
+Lake Jackson, TX, U.S.A. | September, 2023 - Present
+<ul>
+<li>Part of the Packaging & Specialty Plastics (P&SP) R&D group.</li>
+</ul>
+</font>
+
 <font size="2"><b>Technology Research Intern at M/s <a href='https://www.aspentech.com/en/'>Aspen Technology Inc.</a></b><br>
 Bedford, MA, U.S.A. | May - August, 2021
 <ul>
