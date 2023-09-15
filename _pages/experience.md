@@ -18,6 +18,7 @@ author_profile: true
 
 |_Conferences_|
 |:-|
+|**Arijit Chakraborty**, and Venkat Venkatasubramanian. Automated Mechanism-Based Explanation Generation of Machine Learning Models. [_2023 AIChE Annual Meeting_](https://aiche.confex.com/aiche/2023/meetingapp.cgi/Paper/668806). (2023)|
 |**Arijit Chakraborty**, Harshal Marathe, and Venkat Venkatasubramanian. A Data Reconciliation Methodology for Reduced Order Modeling of Process Systems. [_2022 AIChE Annual Meeting_](https://www.aiche.org/academy/conferences/aiche-annual-meeting/2022/proceeding/paper/543b-data-reconciliation-methodology-reduced-order-modeling-process-systems). (2022)|
 |**Arijit Chakraborty**, Krishnan Kumaran, and Venkat Venkatasubramanian. A Framework for the Statistical Value of Extreme Points for Function Approximation. [_2022 AIChE Annual Meeting_](https://www.aiche.org/academy/conferences/aiche-annual-meeting/2022/proceeding/paper/416e-framework-statistical-value-extreme-points-function-approximation). (2022)|
 |**Arijit Chakraborty** and Venkat Venkatasubramanian. Discovering First-Principles-Based Models Using Machine Learning for Physicochemical Systems. [_2022 AIChE Annual Meeting_](https://www.aiche.org/academy/conferences/aiche-annual-meeting/2022/proceeding/paper/105c-discovering-first-principles-based-models-using-machine-learning-physicochemical-systems). (2022)|
