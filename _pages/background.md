@@ -58,6 +58,8 @@ Mumbai, MH, India | July, 2018
 
 |Time|Role|Course|Affiliation|
 |:-|:-|:-|:-|
+|Spring 2024|Teaching Assistant|Artificial Intelligence in Chemical Engineering|Columbia University|
+|Spring 2024|Teaching Assistant|Managing Systemic Risk in Complex Systems|Columbia University|
 |Fall 2022|Teaching Assistant|Artificial Intelligence in Chemical Engineering|Columbia University|
 |Spring 2021|Teaching Assistant|Mathematical Methods in Chemical Engineering|Columbia University|
 |Spring 2020|Teaching Assistant|Chemical Engineering Laboratory - II|BITS Pilani|
