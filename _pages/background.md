@@ -23,7 +23,7 @@ author_profile: true
 ### Industrial Experience
 
 <font size="2"><b>ADISE Intern at M/s <a href='https://www.dow.com/en-us'>The Dow Chemical Company</a></b><br>
-Lake Jackson, TX, U.S.A. | September, 2023 - Present
+Lake Jackson, TX, U.S.A. | September - December, 2023
 <ul>
 <li>Part of the Packaging & Specialty Plastics (P&SP) R&D group.</li>
 </ul>
