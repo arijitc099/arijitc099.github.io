@@ -7,6 +7,7 @@ author_profile: true
 
 |_Journal Publications_|
 |:-|
+|Peter Jul-Rasmussen, **Arijit Chakraborty**, Venkat Venkatasubramanian, Xiaodong Liang, and Jakob Kjøbsted Huusom. Hybrid AI modeling techniques for pilot scale bubble column aeration: A comparative study. _Computers & Chemical Engineering._(2024), doi: [10.1016/j.compchemeng.2024.108655](https://doi.org/10.1016/j.compchemeng.2024.108655)|
 |Peter Jul-Rasmussen, **Arijit Chakraborty**, Venkat Venkatasubramanian, Xiaodong Liang, and Jakob Kjøbsted Huusom. Identifying first-principles models for bubble column aeration using machine learning. _Computer Aided Chemical Engineering (Vol. 52, pp. 1089-1094). Elsevier._(2023), doi: [10.1016/B978-0-443-15274-0.50174-8](https://doi.org/10.1016/B978-0-443-15274-0.50174-8)|
 |Zuming Liu, **Arijit Chakraborty**, Tianbiao He, and Iftekhar A. Karimi. Technoeconomic and environmental optimization of combined heat and power systems with renewable integration for chemical plants. _Applied Thermal Engineering._(2023), p.119474., doi: [10.1016/j.applthermaleng.2022.119474](https://doi.org/10.1016/j.applthermaleng.2022.119474)|
 |**Arijit Chakraborty**, Sven Serneels, Heiko Claussen, and Venkat Venkatasubramanian. Hybrid AI Models in Chemical Engineering–A Purpose-driven Perspective. _Computer Aided Chemical Engineering (Vol. 51,  pp. 1507-1512). Elsevier._(2022), doi: [10.1016/B978-0-323-95879-0.50252-6](https://doi.org/10.1016/B978-0-323-95879-0.50252-6)|
