@@ -20,7 +20,10 @@ author_profile: true
 
 |_Conferences_|
 |:-|
-|**Arijit Chakraborty**, Akhilesh Gandhi, M. M. Faruque Hasan, and Venkat Venkatasubramanian. iscovering zeolite adsorption isotherms: a hybrid AI modeling approach. _ESCAPE34 PSE24 2024_ at Florence, Italy. (2024)|
+
+|Naz Pinar Taskiran, Chia-En Jacklyn Tsai, **Arijit Chakraborty**, Vipul Mann, and Venkat Venkatasubramanian. A Knowledge Graph-based Pharmaceutical Engineering Chatbot for Drug Discovery. [_AI Meets Science Conference_](https://www.aifsr.com/events/aims/poster-session) at New York, NY. (2024)|
+|**Arijit Chakraborty**, Woods Wiser, Siddhartha Sen, Vivian Faye McNeill, and Venkat Venkatasubramanian. Automating Chemical Reaction Mechanism Reduction using Artificial Intelligence for Atmospheric Chemistry. [_AI Meets Science Conference_](https://www.aifsr.com/events/aims/poster-session) at New York, NY. (2024)|
+|**Arijit Chakraborty**, Akhilesh Gandhi, M. M. Faruque Hasan, and Venkat Venkatasubramanian. Discovering zeolite adsorption isotherms: a hybrid AI modeling approach. _ESCAPE34 PSE24 2024_ at Florence, Italy. (2024)|
 |**Arijit Chakraborty**, and Venkat Venkatasubramanian. Automated Mechanism-Based Explanation Generation of Machine Learning Models. [_2023 AIChE Annual Meeting_](https://aiche.confex.com/aiche/2023/meetingapp.cgi/Paper/668806). (2023)|
 |Peter Jul-Rasmussen, **Arijit Chakraborty**, Venkat Venkatasubramanian, Xiaodong Liang, and Jakob Kjøbsted Huusom. Identifying first-principles models for bubble column aeration using machine learning. [_ESCAPE-33 2023_](https://doi.org/10.1016/B978-0-443-15274-0.50174-8) held in Athens, Greece. (2023)|
 |**Arijit Chakraborty**, Harshal Marathe, and Venkat Venkatasubramanian. A Data Reconciliation Methodology for Reduced Order Modeling of Process Systems. [_2022 AIChE Annual Meeting_](https://www.aiche.org/academy/conferences/aiche-annual-meeting/2022/proceeding/paper/543b-data-reconciliation-methodology-reduced-order-modeling-process-systems). (2022)|
