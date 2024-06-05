@@ -7,7 +7,9 @@ author_profile: true
 
 |_Journal Publications_|
 |:-|
-|Venkat Venkatasubramanian and **Arijit Chakraborty**. Quo Vadis ChatGPT? From Large Language Models to Large Knowledge Models. [_arXiv preprint:2405.19561._](https://arxiv.org/abs/2405.19561) (2024)|
+<!-- |**Arijit Chakraborty**, Forwood Wiser, Siddhartha Sen, V. Faye McNeill, and Venkat Venkatasubramanian. Evolutionary Optimization of the Reduced Gas-phase Isoprene Oxidation Mechanism. _ChemRxiv._(2024), doi: []()| -->
+|Venkat Venkatasubramanian and **Arijit Chakraborty**. Quo Vadis ChatGPT? From Large Language Models to Large Knowledge Models. _arXiv._(2024), doi: [https://doi.org/10.48550/arXiv.2405.19561](
+https://doi.org/10.48550/arXiv.2405.19561)|
 |Peter Jul-Rasmussen, **Arijit Chakraborty**, Venkat Venkatasubramanian, Xiaodong Liang, and Jakob Kjøbsted Huusom. Hybrid AI modeling techniques for pilot scale bubble column aeration: A comparative study. _Computers & Chemical Engineering._(2024), doi: [10.1016/j.compchemeng.2024.108655](https://doi.org/10.1016/j.compchemeng.2024.108655)|
 |Peter Jul-Rasmussen, **Arijit Chakraborty**, Venkat Venkatasubramanian, Xiaodong Liang, and Jakob Kjøbsted Huusom. Identifying first-principles models for bubble column aeration using machine learning. _Computer Aided Chemical Engineering (Vol. 52, pp. 1089-1094). Elsevier._(2023), doi: [10.1016/B978-0-443-15274-0.50174-8](https://doi.org/10.1016/B978-0-443-15274-0.50174-8)|
 |Zuming Liu, **Arijit Chakraborty**, Tianbiao He, and Iftekhar A. Karimi. Technoeconomic and environmental optimization of combined heat and power systems with renewable integration for chemical plants. _Applied Thermal Engineering._(2023), p.119474., doi: [10.1016/j.applthermaleng.2022.119474](https://doi.org/10.1016/j.applthermaleng.2022.119474)|
