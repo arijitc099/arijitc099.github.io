@@ -18,7 +18,7 @@ author_profile: true
 |**Arijit Chakraborty** and Anirban Roy. Seasonal Variations in River Water Properties and Their Impact on Mixing Energies and Pressure Retarded Osmosis. _Environmental Engineering Science_. (2018), doi: [10.1089/ees.2017.0477](https://doi.org/10.1089/ees.2017.0477) <!-- [(PDF)](../files/paper1.pdf)  -->|
 
 
-_Conference Proceedings_|
+|_Conference Proceedings_|
 |:-|
 |**Arijit Chakraborty**, Akhilesh Gandhi, M. M. Faruque Hasan, and Venkat Venkatasubramanian. Discovering zeolite adsorption isotherms: a hybrid AI modeling approach. (Accepted)._(2024)|
 |Peter Jul-Rasmussen, **Arijit Chakraborty**, Venkat Venkatasubramanian, Xiaodong Liang, and Jakob Kjøbsted Huusom. Identifying first-principles models for bubble column aeration using machine learning. _Computer Aided Chemical Engineering (Vol. 52, pp. 1089-1094). Elsevier._(2023), doi: [10.1016/B978-0-443-15274-0.50174-8](https://doi.org/10.1016/B978-0-443-15274-0.50174-8)|
