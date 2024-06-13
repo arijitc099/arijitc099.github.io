@@ -20,8 +20,7 @@ author_profile: true
 
 _Conference Proceedings_|
 |:-|
-|**Arijit Chakraborty**, Akhilesh Gandhi, M. M. Faruque Hasan, and Venkat Venkatasubramanian. Discovering
-zeolite adsorption isotherms: a hybrid AI modeling approach. (Accepted)._(2024)|
+|**Arijit Chakraborty**, Akhilesh Gandhi, M. M. Faruque Hasan, and Venkat Venkatasubramanian. Discovering zeolite adsorption isotherms: a hybrid AI modeling approach. (Accepted)._(2024)|
 |Peter Jul-Rasmussen, **Arijit Chakraborty**, Venkat Venkatasubramanian, Xiaodong Liang, and Jakob Kjøbsted Huusom. Identifying first-principles models for bubble column aeration using machine learning. _Computer Aided Chemical Engineering (Vol. 52, pp. 1089-1094). Elsevier._(2023), doi: [10.1016/B978-0-443-15274-0.50174-8](https://doi.org/10.1016/B978-0-443-15274-0.50174-8)|
 |**Arijit Chakraborty**, Sven Serneels, Heiko Claussen, and Venkat Venkatasubramanian. Hybrid AI Models in Chemical Engineering–A Purpose-driven Perspective. _Computer Aided Chemical Engineering (Vol. 51,  pp. 1507-1512). Elsevier._(2022), doi: [10.1016/B978-0-323-95879-0.50252-6](https://doi.org/10.1016/B978-0-323-95879-0.50252-6)|
 
