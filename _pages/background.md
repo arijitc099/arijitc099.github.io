@@ -66,12 +66,13 @@ Mumbai, MH, India | July, 2018
 |Spring 2019|Course Instructor|Process Simulation & Modeling – ASPEN Plus & HYSYS|BITS Pilani|
 |Spring 2019|Teaching Assistant|Numerical Methods for Chemical Engineers|BITS Pilani|
 
-<!-- ### Professional Service
+### Professional Service
 
 |Time|Role|Organization|
 |:-|:-|:-|
-|02/2020 - Present|Reviewer|Journal of Computers and Chemical Engineering|
- -->
+|2020 - Present|Reviewer|Computers and Chemical Engineering Journal|
+|2020 - Present|Reviewer|American Institute of Chemical Engineers Journal|
+
 
 ### Technical Strengths
 
