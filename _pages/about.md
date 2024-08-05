@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year Ph.D. student in the Complex Resilient Intelligent Systems (CRIS) group of Professor Venkat Venkatasubramanian, at Columbia University in the City of New York. 
+I am a fifth-year Ph.D. student in the Complex Resilient Intelligent Systems (CRIS) group advised by Professor Venkat Venkatasubramanian, at Columbia University in the City of New York. 
 
 I graduated from BITS Pilani-Goa Campus in 2020 with a Bachelor of Engineering (Honors) in Chemical Engineering, and am interested in applying my knowledge and skills to real world problems. Classical chemical engineering, as performed by the large MNCs and engineering contractors has always fascinated me. During the pursuit of my undergraduate degree, I completed industrial trainings- twice in the world renowned Reliance Industries Limited Jamnagar Refinery, and the other at Maire Tecnimont. Exposure to the same has helped me understand the industrial needs of chemical engineering, thus providing a different perspective to my field of study.
 
