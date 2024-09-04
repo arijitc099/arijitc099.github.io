@@ -7,6 +7,7 @@ author_profile: true
 
 |_Journal Publications_|
 |:-|
+|**Arijit Chakraborty**, Milind Joshi, Sampatrao Manjare, and Iftekhar A. Karimi. An Industrial Perspective of Cogeneration – A Comprehensive Review. _Chemical Engineering and Processing - Process Intensification._(2024), doi: [10.1016/j.cep.2024.109974](https://doi.org/10.1016/j.cep.2024.109974)|
 |**Arijit Chakraborty**, Forwood Wiser, Siddhartha Sen, V. Faye McNeill, and Venkat Venkatasubramanian. Evolutionary Optimization of the Reduced Gas-phase Isoprene Oxidation Mechanism. _ChemRxiv._(2024), doi: [10.26434/chemrxiv-2024-n2v36](https://doi.org/10.26434/chemrxiv-2024-n2v36) [(PDF)](../files/evolutionary-optimization-of-the-reduced-gas-phase-isoprene-oxidation-mechanism.pdf)|
 |Venkat Venkatasubramanian and **Arijit Chakraborty**. Quo Vadis ChatGPT? From Large Language Models to Large Knowledge Models. _arXiv._(2024), doi: [10.48550/arXiv.2405.19561](https://doi.org/10.48550/arXiv.2405.19561) [(PDF)](../files/2405.19561v1.pdf)|
 |Peter Jul-Rasmussen, **Arijit Chakraborty**, Venkat Venkatasubramanian, Xiaodong Liang, and Jakob Kjøbsted Huusom. Hybrid AI modeling techniques for pilot scale bubble column aeration: A comparative study. _Computers & Chemical Engineering._(2024), doi: [10.1016/j.compchemeng.2024.108655](https://doi.org/10.1016/j.compchemeng.2024.108655)|
