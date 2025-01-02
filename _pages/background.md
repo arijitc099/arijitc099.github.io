@@ -10,17 +10,25 @@ author_profile: true
 
 |Time|Degree|School|
 |:-|:-|:-|
-|09/2020 - Present | Ph.D. Candidate, Chemical Engineering | Columbia University in the City of New York
-|09/2020 - 02/2022 | Master of Science, Chemical Engineering | Columbia University in the City of New York
-|08/2016 - 08/2020|Bachelor of Science, Chemical Engineering | Birla Institute of Technology and Science, Pilani (BITS Pilani)
+|09/2020 - Present 	| Ph.D. Candidate, Chemical Engineering 		| Columbia University in the City of New York
+|09/2020 - 10/2024 	| Master of Philosophy, Chemical Engineering 	| Columbia University in the City of New York
+|09/2020 - 02/2022 	| Master of Science, Chemical Engineering 		| Columbia University in the City of New York
+|08/2016 - 08/2020	| Bachelor of Science, Chemical Engineering 	| Birla Institute of Technology and Science, Pilani (BITS Pilani)
 
 
 ### Relevant Coursework
 
-<font size="3">Artificial Intelligence, Machine Learning, Chemical Engineering Data Analysis, Artificial Intelligence in Chemical Engineering, Statistical Mechanics, Chemical Engineering Optimization</font>
+<font size="3">Artificial Intelligence; Machine Learning; Chemical Engineering Data Analysis; Artificial Intelligence in Chemical Engineering; Statistical Mechanics; Chemical Engineering Optimization; Fundamental Analysis for Investors, Managers and Entrepreneurs (FAIME)</font>
 
 
 ### Industrial Experience
+
+<font size="2"><b>External Contractor at M/s <a href='https://www.fda.gov'>Food and Drug Administration (FDA)</a></b><br>
+Silver Spring, MD, U.S.A. (Remote) | January, 2024 - Present
+<ul>
+<li>Working as an external contractor for the FDA under Center for Drug Evaluation and Research (CDER).</li>
+</ul>
+</font>
 
 <font size="2"><b>ADISE Intern at M/s <a href='https://www.dow.com/en-us'>The Dow Chemical Company</a></b><br>
 Lake Jackson, TX, U.S.A. | September - December, 2023
@@ -70,6 +78,7 @@ Mumbai, MH, India | July, 2018
 
 |Time|Role|Organization|
 |:-|:-|:-|
+|2024 - Present|Reviewer|Computer Methods in Biomechanics and Biomedical Engineering|
 |2020 - Present|Reviewer|Computers and Chemical Engineering Journal|
 |2020 - Present|Reviewer|American Institute of Chemical Engineers Journal|
 
@@ -82,4 +91,5 @@ Mumbai, MH, India | July, 2018
 |Programming        |Python, MATLAB|
 |Publishing        	|Microsoft Office, LaTeX|
 |Optimization      	|GAMS®|
+|Finance	      	|CFA® Level 1 cleared|
  
