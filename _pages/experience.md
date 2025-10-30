@@ -12,7 +12,7 @@ author_profile: true
 |**Arijit Chakraborty**, Naz Pinar Taskiran, Rishab Kottooru, Vipul Mann, and Venkat Venkatasubramanian. Building hybrid AI models in chemical engineering: A tutorial review. _Computers & Chemical Engineering._(2025), doi: [10.1016/j.compchemeng.2025.109236](https://doi.org/10.1016/j.compchemeng.2025.109236)|
 |Venkat Venkatasubramanian and **Arijit Chakraborty**. Quo Vadis ChatGPT? From large language models to Large Knowledge Models. _Computers & Chemical Engineering._(2025), doi: [10.1016/j.compchemeng.2024.108895](https://doi.org/10.1016/j.compchemeng.2024.108895)|
 |**Arijit Chakraborty**, Milind Joshi, Sampatrao Manjare, and Iftekhar A. Karimi. An Industrial Perspective of Cogeneration – A Comprehensive Review. _Chemical Engineering and Processing - Process Intensification._(2024), doi: [10.1016/j.cep.2024.109974](https://doi.org/10.1016/j.cep.2024.109974)|
-|**Arijit Chakraborty**, Forwood Wiser, Siddhartha Sen, V. Faye McNeill, and Venkat Venkatasubramanian. Evolutionary Optimization of the Reduced Gas-phase Isoprene Oxidation Mechanism. _Journal of Advances in Modeling Earth Systems._(2025), doi: [10.26434/chemrxiv-2024-n2v36]|
+|**Arijit Chakraborty**, Forwood Wiser, Siddhartha Sen, V. Faye McNeill, and Venkat Venkatasubramanian. Evolutionary Optimization of the Reduced Gas-phase Isoprene Oxidation Mechanism. _Journal of Advances in Modeling Earth Systems._(2025), doi: [10.1029/2024MS004511](https://doi.org/10.1029/2024MS004511)|
 |Peter Jul-Rasmussen, **Arijit Chakraborty**, Venkat Venkatasubramanian, Xiaodong Liang, and Jakob Kjøbsted Huusom. Hybrid AI modeling techniques for pilot scale bubble column aeration: A comparative study. _Computers & Chemical Engineering._(2024), doi: [10.1016/j.compchemeng.2024.108655](https://doi.org/10.1016/j.compchemeng.2024.108655)|
 |Zuming Liu, **Arijit Chakraborty**, Tianbiao He, and Iftekhar A. Karimi. Technoeconomic and environmental optimization of combined heat and power systems with renewable integration for chemical plants. _Applied Thermal Engineering._(2023), p.119474., doi: [10.1016/j.applthermaleng.2022.119474](https://doi.org/10.1016/j.applthermaleng.2022.119474)|
 |Sampatrao Manjare and **Arijit Chakraborty**. Modelling of fugitive emissions released due to handling of iron ore cargo at the port. _International Journal of Environmental Science and Technology._(2022), doi: [10.1007/s13762-022-03969-4](https://doi.org/10.1007/s13762-022-03969-4)|
@@ -31,6 +31,10 @@ author_profile: true
 
 |_Conferences_|
 |:-|
+|Kyung Il Kim, Hannah Qi, **Arijit Chakraborty**, and Venkat Venkatasubramanian.From Data to Differential Equations: Interpretable Modeling with Genetic Algorithm–Based Machine Learning and Embedded Domain Knowledge. [_2025 AIChE Annual Meeting_](https://aiche.confex.com/aiche/2025/prelim.cgi/Paper/711146) in Boston, MA. (2025)|
+|Shabnam Shahhoseyni, **Arijit Chakraborty**, Mohammed Reza Boskabadi, Venkat Venkatasubramanian, and Seyed Mansouri. Hybrid machine-learning for plant-wide bioprocess modeling. _35th European Symposium on Computer Aided Process Engineering (ESCAPE 35)_ in Ghent, Belgium. (2025)|
+|**Arijit Chakraborty**, Kushaan Gowda, Ronitt Mehra, Sandra Zelen, and Venkat Venkatasubramanian. Automated Mechanism-based Explanation Generation of Machine Learning Models. New York Academy of Sciences' 15th Annual Machine Learning Symposium, held in New York, NY. (2024)|
+|Naz Pinar Taskiran, Ronitt Mehra, **Arijit Chakraborty**, Vipul Mann, and Venkat Venkatasubramanian. Accelerating Drug Discovery through the Automatic Population of a Pharmaceutical Ontology using Knowledge Graphs. New York Academy of Sciences' 15th Annual Machine Learning Symposium, held in New York, NY. (2024)|
 |**Arijit Chakraborty**, Woods Wiser, Siddhartha Sen, Vivian Faye McNeill, and Venkat Venkatasubramanian. Automatic Chemical Reaction Mechanism Reduction Using Artificial Intelligence: Applications in Atmospheric Chemistry. [_2024 AIChE Annual Meeting_](https://aiche.confex.com/aiche/2024/meetingapp.cgi/Paper/687271) in San Diego, CA. (2024)|
 |Adheesh Kadiresan, Naz Pinar Taskiran, **Arijit Chakraborty**, Vipul Mann, and Venkat Venkatasubramanian. Contrastive Learning to Improve Pharmaceutical Knowledge Graph Quality in Machine Learning. [_2024 AIChE Annual Meeting_](https://aiche.confex.com/aiche/2024/meetingapp.cgi/Paper/689448) in San Diego, CA. (2024)|
 |Naz Pinar Taskiran, **Arijit Chakraborty**, Vipul Mann, and Venkat Venkatasubramanian. Accelerating Drug Discovery through the Automatic Population of a Pharmaceutical Ontology Using Knowledge Graphs. [_2024 AIChE Annual Meeting_](https://aiche.confex.com/aiche/2024/meetingapp.cgi/Paper/689055) in San Diego, CA. (2024)|
@@ -67,7 +71,7 @@ author_profile: true
 ### Projects
 
 <font size="2"><b>Automated Mechanism-based Explanation Generation of Machine Learning Model</b><br>
-Advisor: <a href='https://www.cheme.columbia.edu/faculty/venkat-venkatasubramanian'>Prof. Venkat Venkatasubramanian</a> , Columbia University, U.S.A | Fall 2022 - Present  
+Advisor: <a href='https://www.cheme.columbia.edu/faculty/venkat-venkatasubramanian'>Prof. Venkat Venkatasubramanian</a> , Columbia University, U.S.A | Fall, 2022-2025  
 <ul>
 <li> Developed a novel framework for the extraction of domain-specific information from textual sources.</li>
 <li> Extracted knowledge is used to generate mechanistic explanations for the ML-assisted models.</li>
@@ -76,7 +80,7 @@ Advisor: <a href='https://www.cheme.columbia.edu/faculty/venkat-venkatasubramani
 </font>
 
 <font size="2"><b>Hybrid-AI Modeling of a Pilot-scale Bubble Column Aeration </b><br>
-Advisor: <a href='https://www.cheme.columbia.edu/faculty/venkat-venkatasubramanian'>Prof. Venkat Venkatasubramanian</a> , Columbia University, U.S.A | Fall 2022 - Present  
+Advisor: <a href='https://www.cheme.columbia.edu/faculty/venkat-venkatasubramanian'>Prof. Venkat Venkatasubramanian</a> , Columbia University, U.S.A | Fall, 2022-2025  
 <ul>
 <li> In collaboration with researchers from Process and Systems Engineering Center (PROSYS) at the Department of Chemical and Biochemical Engineering in Technical University of Denmark. </li>
 <li> A novel interpretable and explainable model for the bubble-column aeration operation was proposed, and parameters were reconciled with existing models of the same.</li>
@@ -85,7 +89,7 @@ Advisor: <a href='https://www.cheme.columbia.edu/faculty/venkat-venkatasubramani
 </font>
 
 <font size="2"><b>Automated hybrid-AI Algorithm for Complex Reaction Mechanism Reduction</b><br>
-Advisor: <a href='https://www.cheme.columbia.edu/faculty/venkat-venkatasubramanian'>Prof. Venkat Venkatasubramanian</a> , Columbia University, U.S.A | Summer 2022 - Present  
+Advisor: <a href='https://www.cheme.columbia.edu/faculty/venkat-venkatasubramanian'>Prof. Venkat Venkatasubramanian</a> , Columbia University, U.S.A | Summer, 2022 - Fall, 2025
 <ul>
 <li> In collaboration with researchers from within the Department of Chemical Engineering at Columbia University.</li>
 <li> Developed a hybrid-AI approach for obtaining reduced mechanisms 100x smaller in size in comparison to complete mechanism.</li>
@@ -95,7 +99,7 @@ Advisor: <a href='https://www.cheme.columbia.edu/faculty/venkat-venkatasubramani
 </font>
 
 <font size="2"><b>A Framework for the Statistical Value of Extreme Points for Function Approximation</b><br>
-Advisor: <a href='https://www.cheme.columbia.edu/faculty/venkat-venkatasubramanian'>Prof. Venkat Venkatasubramanian</a> , Columbia University, U.S.A | Summer 2022 - Present  
+Advisor: <a href='https://www.cheme.columbia.edu/faculty/venkat-venkatasubramanian'>Prof. Venkat Venkatasubramanian</a> , Columbia University, U.S.A | Summer, 2022 - Fall, 2025
 <ul>
 <li> Demonstrated using model-based experimental design, the case in favor of extreme points, along with their statistical merits.</li>
 <li> Developed an autonomous experimentation algorithm for improving function approximation in higher dimensions.</li>
@@ -104,7 +108,7 @@ Advisor: <a href='https://www.cheme.columbia.edu/faculty/venkat-venkatasubramani
 
 
 <font size="2"><b>Mechanism Identification of Physio-chemical Systems using Evolutionary Algorithm</b><br>
-Advisor: <a href='https://www.cheme.columbia.edu/faculty/venkat-venkatasubramanian'>Prof. Venkat Venkatasubramanian</a> , Columbia University, U.S.A | Summer 2019 - Present  
+Advisor: <a href='https://www.cheme.columbia.edu/faculty/venkat-venkatasubramanian'>Prof. Venkat Venkatasubramanian</a> , Columbia University, U.S.A | Summer, 2019 - Fall, 2025  
 <ul>
 <li> Developed a genetic algorithm approach-based algorithm that discovers mathematical models that map input variables to output variables with high accuracy.</li>
 <li> Proposed a new strategy for mechanism identification of multi-parameter models across a widerange of parameter space.</li>
@@ -113,7 +117,7 @@ Advisor: <a href='https://www.cheme.columbia.edu/faculty/venkat-venkatasubramani
 </font>
 
 <font size="2"><b>Optimization of Cogeneration Plants — Undergraduate Thesis</b><br>
-Advisor: <a href='https://www.eng.nus.edu.sg/chbe/staff/cheiak/'>Prof. Iftekhar Karimi</a>, National University of Singapore, Singapore | Summer and Fall 2019
+Advisor: <a href='https://www.eng.nus.edu.sg/chbe/staff/cheiak/'>Prof. Iftekhar Karimi</a>, National University of Singapore, Singapore | Summer & Fall 2019
 <ul>
 <li> Developed a MINLP optimization model of a cogeneration plant by creation of a superstructure, incorporating all possible configurations of the equipment and their flow-schemes.</li>
 <li> Used GAMS® for solving the optimization problem and analysed the design to obtain the optimalset of equipment, design parameters and corresponding operating conditions.</li>
