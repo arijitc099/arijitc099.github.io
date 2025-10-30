@@ -7,9 +7,14 @@ author_profile: true
 
 |_Journal Publications_|
 |:-|
+|Naz Pinar Taskiran, Chia-En Jacklyn Tsai, Shuxin Huang, **Arijit Chakraborty**, and Venkat Venkatasubramanian. A knowledge-graph-based pharmaceutical engineering chatbot for drug discovery. _Computers & Chemical Engineering_(2025), doi: [10.1016/j.compchemeng.2025.109318](https://doi.org/10.1016/j.compchemeng.2025.109318)|
+|**Arijit Chakraborty**, Akhilesh Gandhi, M.M. Faruque Hasan, and Venkat Venkatasubramanian. Explainable AI Modeling of Zeolite Adsorption Isotherms. _Chemical Engineering Science_ (2025), doi: [10.1016/j.ces.2025.122361](https://doi.org/10.1016/j.ces.2025.122361)|
+|**Arijit Chakraborty**, Naz Pinar Taskiran, Rishab Kottooru, Vipul Mann, and Venkat Venkatasubramanian. Building hybrid AI models in chemical engineering: A tutorial review. _Computers & Chemical Engineering._(2025), doi: [10.1016/j.compchemeng.2025.109236](https://doi.org/10.1016/j.compchemeng.2025.109236)|
+<!-- [(PDF)](../files/1-s2.0-S0098135424003132-main.pdf)| -->
 |Venkat Venkatasubramanian and **Arijit Chakraborty**. Quo Vadis ChatGPT? From large language models to Large Knowledge Models. _Computers & Chemical Engineering._(2025), doi: [10.1016/j.compchemeng.2024.108895](https://doi.org/10.1016/j.compchemeng.2024.108895) [(PDF)](../files/1-s2.0-S0098135424003132-main.pdf)|
 |**Arijit Chakraborty**, Milind Joshi, Sampatrao Manjare, and Iftekhar A. Karimi. An Industrial Perspective of Cogeneration – A Comprehensive Review. _Chemical Engineering and Processing - Process Intensification._(2024), doi: [10.1016/j.cep.2024.109974](https://doi.org/10.1016/j.cep.2024.109974)|
-|**Arijit Chakraborty**, Forwood Wiser, Siddhartha Sen, V. Faye McNeill, and Venkat Venkatasubramanian. Evolutionary Optimization of the Reduced Gas-phase Isoprene Oxidation Mechanism. _ChemRxiv._(2024), doi: [10.26434/chemrxiv-2024-n2v36](https://doi.org/10.26434/chemrxiv-2024-n2v36) [(PDF)](../files/evolutionary-optimization-of-the-reduced-gas-phase-isoprene-oxidation-mechanism.pdf)|
+|**Arijit Chakraborty**, Forwood Wiser, Siddhartha Sen, V. Faye McNeill, and Venkat Venkatasubramanian. Evolutionary Optimization of the Reduced Gas-phase Isoprene Oxidation Mechanism. _Journal of Advances in Modeling Earth Systems._(2025), doi: [10.26434/chemrxiv-2024-n2v36]|
+<!-- (https://doi.org/10.26434/chemrxiv-2024-n2v36) [(PDF)](../files/evolutionary-optimization-of-the-reduced-gas-phase-isoprene-oxidation-mechanism.pdf)| -->
 |Peter Jul-Rasmussen, **Arijit Chakraborty**, Venkat Venkatasubramanian, Xiaodong Liang, and Jakob Kjøbsted Huusom. Hybrid AI modeling techniques for pilot scale bubble column aeration: A comparative study. _Computers & Chemical Engineering._(2024), doi: [10.1016/j.compchemeng.2024.108655](https://doi.org/10.1016/j.compchemeng.2024.108655)|
 |Zuming Liu, **Arijit Chakraborty**, Tianbiao He, and Iftekhar A. Karimi. Technoeconomic and environmental optimization of combined heat and power systems with renewable integration for chemical plants. _Applied Thermal Engineering._(2023), p.119474., doi: [10.1016/j.applthermaleng.2022.119474](https://doi.org/10.1016/j.applthermaleng.2022.119474)|
 |Sampatrao Manjare and **Arijit Chakraborty**. Modelling of fugitive emissions released due to handling of iron ore cargo at the port. _International Journal of Environmental Science and Technology._(2022), doi: [10.1007/s13762-022-03969-4](https://doi.org/10.1007/s13762-022-03969-4)|
@@ -21,6 +26,7 @@ author_profile: true
 
 |_Conference Proceedings_|
 |:-|
+|Shabnam Shahhoseyni, **Arijit Chakraborty**, Mohammed Reza Boskabadi, Venkat Venkatasubramanian, and Seyed Mansouri. Hybrid machine-learning for plant-wide bioprocess modeling. _Systems & Control Transactions (4, 1682-1687)_(2025)|
 |**Arijit Chakraborty**, Akhilesh Gandhi, M. M. Faruque Hasan, and Venkat Venkatasubramanian. Discovering zeolite adsorption isotherms: a hybrid AI modeling approach. _Computer Aided Chemical Engineering (Vol. 53, pp. 511-516). Elsevier._(2024), doi: [10.1016/B978-0-443-28824-1.50086-7](https://doi.org/10.1016/B978-0-443-28824-1.50086-7)|
 |Peter Jul-Rasmussen, **Arijit Chakraborty**, Venkat Venkatasubramanian, Xiaodong Liang, and Jakob Kjøbsted Huusom. Identifying first-principles models for bubble column aeration using machine learning. _Computer Aided Chemical Engineering (Vol. 52, pp. 1089-1094). Elsevier._(2023), doi: [10.1016/B978-0-443-15274-0.50174-8](https://doi.org/10.1016/B978-0-443-15274-0.50174-8)|
 |**Arijit Chakraborty**, Sven Serneels, Heiko Claussen, and Venkat Venkatasubramanian. Hybrid AI Models in Chemical Engineering–A Purpose-driven Perspective. _Computer Aided Chemical Engineering (Vol. 51,  pp. 1507-1512). Elsevier._(2022), doi: [10.1016/B978-0-323-95879-0.50252-6](https://doi.org/10.1016/B978-0-323-95879-0.50252-6)|
@@ -46,7 +52,8 @@ author_profile: true
 
 |_Honors and Awards_|
 |:-| 
-|CAST Director's Student Presentation Award at the 2022 AIChE Annual Meeting (2022), for the presentation titled [_Discovering First-Principles-Based Models Using Machine Learning for Physicochemical Systems_](https://www.castdiv.org/StudentPresentationAward.htm)|
+|Awarded the 3rd prize at [Poster Session: Environmental Division](https://aiche.confex.com/aiche/2024/meetingapp.cgi/Paper/687271) at 2024 AIChE Annual Meeting, for the presentation titled _Automatic Chemical Reaction Mechanism Reduction Using Artificial Intelligence: Applications in Atmospheric Chemistry_. (2024)|
+|CAST Director's Student Presentation Award at the 2022 AIChE Annual Meeting, for the presentation titled [_Discovering First-Principles-Based Models Using Machine Learning for Physicochemical Systems_](https://www.castdiv.org/StudentPresentationAward.htm). (2022)|
 |Indian Institute of Chemical Engineers (IIChE) Award for the Year 2018 : [_The Chemical Weekly Prize for Best Research Paper Published in a High Impact Factor International Journal by an Undergraduate Chemical Engineering Student_](https://www.iiche.org.in/studentawards.php#3) – First Prize. (2018)|
 |Council for Student Affairs of BITS Pilani, Goa Campus, Felicitation Fund (2018)|
 

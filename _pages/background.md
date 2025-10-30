@@ -10,10 +10,10 @@ author_profile: true
 
 |Time|Degree|School|
 |:-|:-|:-|
-|09/2020 - Present 	| Ph.D. Candidate, Chemical Engineering 		| Columbia University in the City of New York
-|09/2020 - 10/2024 	| Master of Philosophy, Chemical Engineering 	| Columbia University in the City of New York
-|09/2020 - 02/2022 	| Master of Science, Chemical Engineering 		| Columbia University in the City of New York
-|08/2016 - 08/2020	| Bachelor of Science, Chemical Engineering 	| Birla Institute of Technology and Science, Pilani (BITS Pilani)
+|09/2020 - 10/2025 	| Doctor of Philosophy (Ph.D.), Chemical Engineering 		| Columbia University in the City of New York
+|09/2020 - 10/2024 	| Master of Philosophy (M.Phil.), Chemical Engineering 	| Columbia University in the City of New York
+|09/2020 - 02/2022 	| Master of Science (M.S.), Chemical Engineering 		| Columbia University in the City of New York
+|08/2016 - 08/2020	| Bachelor of Engineering (B.E.), Chemical Engineering 	| Birla Institute of Technology and Science, Pilani (BITS Pilani)
 
 
 ### Relevant Coursework
@@ -23,8 +23,16 @@ author_profile: true
 
 ### Industrial Experience
 
+<font size="2"><b>Sr. AI/ML Engineer at M/s <a href='https://www.optum.com/en/'>Optum Inc.</a></b><br>
+PA, U.S.A. (Remote) | August, 2025 - Present
+<ul>
+<li>Working in the Optum AI, Data \& Analytics subgroup.</li>
+<li>Applying advanced AI techniques and large language model (LLM) frameworks to improve patient care and customer satisfaction.</li>
+</ul>
+</font>
+
 <font size="2"><b>External Contractor at M/s <a href='https://www.fda.gov'>Food and Drug Administration (FDA)</a></b><br>
-Silver Spring, MD, U.S.A. (Remote) | January, 2024 - Present
+Silver Spring, MD, U.S.A. (Remote) | January, 2024 - August, 2025
 <ul>
 <li>Working as an external contractor for the FDA under Center for Drug Evaluation and Research (CDER).</li>
 </ul>
@@ -34,6 +42,7 @@ Silver Spring, MD, U.S.A. (Remote) | January, 2024 - Present
 Lake Jackson, TX, U.S.A. | September - December, 2023
 <ul>
 <li>Part of the Packaging & Specialty Plastics (P&SP) R&D group.</li>
+<li>Developed a generative AI pipeline using proprietary data for a structure-to-property, and property-to-performance machine learning pipeline.</li>
 </ul>
 </font>
 
@@ -66,6 +75,7 @@ Mumbai, MH, India | July, 2018
 
 |Time|Role|Course|Affiliation|
 |:-|:-|:-|:-|
+|Spring 2025|Teaching Assistant|Managing Systemic Risk in Complex Systems|Columbia University|
 |Spring 2024|Teaching Assistant|Artificial Intelligence in Chemical Engineering|Columbia University|
 |Spring 2024|Teaching Assistant|Managing Systemic Risk in Complex Systems|Columbia University|
 |Fall 2022|Teaching Assistant|Artificial Intelligence in Chemical Engineering|Columbia University|
@@ -78,6 +88,10 @@ Mumbai, MH, India | July, 2018
 
 |Time|Role|Organization|
 |:-|:-|:-|
+
+|2025 - Present|Reviewer|The Canadian Journal of Chemical Engineering|
+|2025 - Present|Reviewer|Energy|
+|2024 - Present|Reviewer|Current Opinion in Chemical Engineering|
 |2024 - Present|Reviewer|Computer Methods in Biomechanics and Biomedical Engineering|
 |2020 - Present|Reviewer|Computers and Chemical Engineering Journal|
 |2020 - Present|Reviewer|American Institute of Chemical Engineers Journal|
