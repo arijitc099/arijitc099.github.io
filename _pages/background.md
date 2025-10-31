@@ -18,7 +18,7 @@ author_profile: true
 
 ### Relevant Coursework
 
-<font size="3">Artificial Intelligence; Machine Learning; Chemical Engineering Data Analysis; Artificial Intelligence in Chemical Engineering; Statistical Mechanics; Chemical Engineering Optimization; Fundamental Analysis for Investors, Managers and Entrepreneurs (FAIME)</font>
+<font size="3">Fundamental Analysis for Investors, Managers and Entrepreneurs (FAIME); Artificial Intelligence; Machine Learning; Chemical Engineering Data Analysis; Artificial Intelligence in Chemical Engineering; Statistical Mechanics; Chemical Engineering Optimization</font>
 
 
 ### Industrial Experience
@@ -88,7 +88,6 @@ Mumbai, MH, India | July, 2018
 
 |Time|Role|Organization|
 |:-|:-|:-|
-
 |2025 - Present|Reviewer|The Canadian Journal of Chemical Engineering|
 |2025 - Present|Reviewer|Energy|
 |2024 - Present|Reviewer|Current Opinion in Chemical Engineering|
@@ -101,9 +100,9 @@ Mumbai, MH, India | July, 2018
 
 |Category|Skills|
 |:-|:-|
+|Finance	      	|CFA® Level 1 cleared (May, 2024); Passed the Securities Industry Essentials® (SIE®) Exam (Feb, 2025)|
 |Simulation         |Aspen HYSYS, Aspen Plus|
 |Programming        |Python, MATLAB|
 |Publishing        	|Microsoft Office, LaTeX|
 |Optimization      	|GAMS®|
-|Finance	      	|CFA® Level 1 cleared|
  
