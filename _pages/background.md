@@ -10,10 +10,10 @@ author_profile: true
 
 |Time|Degree|School|
 |:-|:-|:-|
-|09/2020 - 10/2025 	| Doctor of Philosophy (Ph.D.), Chemical Engineering 		| Columbia University in the City of New York
-|09/2020 - 10/2024 	| Master of Philosophy (M.Phil.), Chemical Engineering 	| Columbia University in the City of New York
-|09/2020 - 02/2022 	| Master of Science (M.S.), Chemical Engineering 		| Columbia University in the City of New York
-|08/2016 - 08/2020	| Bachelor of Engineering (B.E.), Chemical Engineering 	| Birla Institute of Technology and Science, Pilani (BITS Pilani)
+|September, 2020 - October, 2025 	| Doctor of Philosophy (Ph.D.), Chemical Engineering 		| Columbia University in the City of New York
+|September, 2020 - October, 2024 	| Master of Philosophy (M.Phil.), Chemical Engineering 	| Columbia University in the City of New York
+|September, 2020 - February, 2022 	| Master of Science (M.S.), Chemical Engineering 		| Columbia University in the City of New York
+|August, 2016 - August, 2020	| Bachelor of Engineering (B.E.), Chemical Engineering 	| Birla Institute of Technology and Science, Pilani (BITS Pilani)
 
 
 ### Relevant Coursework
