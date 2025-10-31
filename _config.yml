@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Arijit Chakraborty"
 title_separator          : "-"
 name                     : &name "Arijit Chakraborty"
-description              : &description "I am a Ph.D student in the Complex Resilient Intelligent Systems (CRIS) group of Professor Venkat Venkatasubramanian at Columbia University, New York. My core research areas of interest include machine learning and artificial intelligence for retrosynthetic planning and novel materials/drug discovery; studying emergent phenomena through nature inspired algorithms like particle swarm optimization and evolutionary programming; and studying complex emergent systems. I graduated with bachelor’s and master’s degrees in Chemical Engineering from the Indian Institute of Technology Madras in 2017. Post graduation, I worked in the industry for 2 years in data science roles and worked on problems ranging from fault detection and diagnosis, multidimensional optimization problems, and sports analytics problems. Outside of academics, I am excited about running, swimming, and reading books!"
+description              : &description "I am Arijit Chakraborty, a Sr. AI/ML Engineer at Optum (a UnitedHealth Group subsidiary). I recently graduated from my Ph.D. in chemical engineering from Columbia University in the City of New York, having worked under the advisement of Professor Venkat Venkatasubramanian at the Complex Resilient Intelligent Systems (CRIS) laboratory. I currently work at the intersection of AI and healthcare by solving challenging and interesting problems to make the healthcare system work better for everyone."
 url                      : https://arijitc099.github.io # the base hostname & protoco for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "arijitc099/arijitc099.github.io"
@@ -81,7 +81,7 @@ social:
 # Site Author
 author:
   name             : "Arijit Chakraborty"
-  avatar           : "files/Aug2025_DP.png"
+  avatar           : "Aug2025_DP.png"
   bio              : "Sr. AI/ML Engineer at Optum Inc."
   location         : "New York, United States"
   employer         : 
