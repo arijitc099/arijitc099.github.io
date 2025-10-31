@@ -149,7 +149,7 @@ Advisor: <a href='https://www.bits-pilani.ac.in/goa/anirbanr/profile'>Prof. Anir
 </font>
 
 <font size="2"><b>Thermodynamic Analysis of Pressure-Retarded Osmosis Process — Mathematical Modeling</b><br>
-Advisor: Prof. Anirban Roy, BITS Pilani – Goa Campus, India | Fall 2017
+Advisor: <a href='https://www.bits-pilani.ac.in/goa/anirbanr/profile'>Prof. Anirban Roy</a>, BITS Pilani – Goa Campus, India | Fall 2017
 <ul>
 <li> Performed thermodynamic and feasibility analysis of Pressure Retarded Osmosis (PRO) by modeling using MATLAB for real estuarine geographies.</li>
 <li> Published a <a href='https://doi.org/10.1089/ees.2017.0477'>journal article</a> in Environmental Engineering Science.</li>

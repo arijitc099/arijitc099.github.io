@@ -26,7 +26,7 @@ author_profile: true
 <font size="2"><b>Sr. AI/ML Engineer at M/s <a href='https://www.optum.com/en/'>Optum Inc.</a></b><br>
 PA, U.S.A. (Remote) | August, 2025 - Present
 <ul>
-<li>Working in the Optum AI, Data \& Analytics subgroup.</li>
+<li>Working in the Optum AI, Data & Analytics subgroup.</li>
 <li>Applying advanced AI techniques and large language model (LLM) frameworks to improve patient care and customer satisfaction.</li>
 </ul>
 </font>
@@ -39,7 +39,7 @@ Silver Spring, MD, U.S.A. (Remote) | January, 2024 - August, 2025
 </font>
 
 <font size="2"><b>ADISE Intern at M/s <a href='https://www.dow.com/en-us'>The Dow Chemical Company</a></b><br>
-Lake Jackson, TX, U.S.A. | September - December, 2023
+Lake Jackson, TX, U.S.A. (Remote) | September - December, 2023
 <ul>
 <li>Part of the Packaging & Specialty Plastics (P&SP) R&D group.</li>
 <li>Developed a generative AI pipeline using proprietary data for a structure-to-property, and property-to-performance machine learning pipeline.</li>
@@ -47,7 +47,7 @@ Lake Jackson, TX, U.S.A. | September - December, 2023
 </font>
 
 <font size="2"><b>Technology Research Intern at M/s <a href='https://www.aspentech.com/en/'>Aspen Technology Inc.</a></b><br>
-Bedford, MA, U.S.A. | May - August, 2021
+Bedford, MA, U.S.A. (Hybrid) | May - August, 2021
 <ul>
 <li>Tested novel techniques with state-of-the-art hybrid modeling software, on industrial data.</li>
 <li>Implemented a stochastic evolutionary algorithm.</li>
@@ -86,7 +86,7 @@ Mumbai, MH, India | July, 2018
 
 ### Professional Service
 
-|Time|Role|Organization|
+|Time|Role|Academic Journal|
 |:-|:-|:-|
 |2025 - Present|Reviewer|[The Canadian Journal of Chemical Engineering](https://onlinelibrary.wiley.com/journal/1939019x)|
 |2025 - Present|Reviewer|[Energy](https://www.sciencedirect.com/journal/energy)|
