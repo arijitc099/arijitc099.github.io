@@ -84,7 +84,7 @@ author:
   avatar           : "files/Aug2025_DP.png"
   bio              : "Sr. AI/ML Engineer at Optum Inc."
   location         : "New York, United States"
-  employer         : "https://www.optum.com/en/"
+  employer         : 
   pubmed           :
   email            : "arijitc099@gmail.com"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=aUhkkFkAAAAJ"
@@ -103,7 +103,7 @@ author:
   instagram        :
   impactstory      :
   lastfm           :
-  orcid            : "0000-0003-0840-0255"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-0840-0255"
   pinterest        :
   soundcloud       :
   stackoverflow    :
