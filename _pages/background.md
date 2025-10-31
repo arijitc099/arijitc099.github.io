@@ -88,12 +88,12 @@ Mumbai, MH, India | July, 2018
 
 |Time|Role|Organization|
 |:-|:-|:-|
-|2025 - Present|Reviewer|The Canadian Journal of Chemical Engineering|
-|2025 - Present|Reviewer|Energy|
-|2024 - Present|Reviewer|Current Opinion in Chemical Engineering|
-|2024 - Present|Reviewer|Computer Methods in Biomechanics and Biomedical Engineering|
-|2020 - Present|Reviewer|Computers and Chemical Engineering Journal|
-|2020 - Present|Reviewer|American Institute of Chemical Engineers Journal|
+|2025 - Present|Reviewer|[The Canadian Journal of Chemical Engineering](https://onlinelibrary.wiley.com/journal/1939019x)|
+|2025 - Present|Reviewer|[Energy](https://www.sciencedirect.com/journal/energy)|
+|2024 - Present|Reviewer|[Current Opinion in Chemical Engineering](https://www.sciencedirect.com/journal/current-opinion-in-chemical-engineering)|
+|2024 - Present|Reviewer|[Computer Methods in Biomechanics and Biomedical Engineering](https://www.tandfonline.com/toc/gcmb20/current)|
+|2020 - Present|Reviewer|[Computers and Chemical Engineering Journal](https://www.sciencedirect.com/journal/computers-and-chemical-engineering)|
+|2020 - Present|Reviewer|[American Institute of Chemical Engineers Journal](https://aiche.onlinelibrary.wiley.com/journal/15475905)|
 
 
 ### Technical Strengths
